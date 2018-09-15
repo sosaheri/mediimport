@@ -1,0 +1,587 @@
+# Copyright (C) 2015 YIThemes
+# This file is distributed under the same license as the YITH Plugin Starter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Product Size Charts for WooCommerce\n"
+"Report-Msgid-Bugs-To: Your Inspiration Themes <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2015-09-02 14:55+0200\n"
+"PO-Revision-Date: 2015-09-02 14:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <info@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: class.yith-wcpsc-admin.php:151
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: class.yith-wcpsc-admin.php:172
+msgid "Description"
+msgstr "Descrizione"
+
+#: class.yith-wcpsc-admin.php:173
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: class.yith-wcpsc-admin.php:181 class.yith-wcpsc-admin.php:182
+#: plugin-options/description-options.php:14
+msgid "Product Size Charts"
+msgstr "Product Size Charts"
+
+#: class.yith-wcpsc-admin.php:213 plugin-options/description-options.php:7
+msgid "Size Charts"
+msgstr "Tabelle misure"
+
+#: class.yith-wcpsc-admin.php:214
+msgid "Size Chart"
+msgstr "Tabella misure"
+
+#: class.yith-wcpsc-admin.php:215
+msgid "Add Size Chart"
+msgstr "Aggiungi tabella misure"
+
+#: class.yith-wcpsc-admin.php:216
+msgid "New Size Chart"
+msgstr "Nuova tabella misure"
+
+#: class.yith-wcpsc-admin.php:217
+msgid "Edit Size Chart"
+msgstr "Modifica tabella misure"
+
+#: class.yith-wcpsc-admin.php:218
+msgid "View Size Chart"
+msgstr "Visualizza tabella misure"
+
+#: class.yith-wcpsc-admin.php:219
+msgid "Size Chart not found"
+msgstr "Tabella misure non trovata"
+
+#: class.yith-wcpsc-admin.php:220
+msgid "Size Chart not found in trash"
+msgstr "Tabella misure non trovata nel carrello"
+
+#: class.yith-wcpsc-admin.php:253
+msgid "None"
+msgstr "Nessuno"
+
+#: class.yith-wcpsc-admin.php:263
+msgid "Chart Options"
+msgstr "Opzioni tabella"
+
+#: class.yith-wcpsc-admin.php:269
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: class.yith-wcpsc-admin.php:272
+msgid "Product"
+msgstr "Prodotto"
+
+#: class.yith-wcpsc-admin.php:273
+msgid "Select the product where showing this size chart."
+msgstr "Seleziona"
+
+#: class.yith-wcpsc-admin.php:294
+msgid "Create your Size Chart"
+msgstr "Crea la tua tabella misure"
+
+#: class.yith-wcpsc-admin.php:344
+msgid "YIT Plugins"
+msgstr "YIT Plugins"
+
+#: init.php:43
+msgid ""
+"YITH Product Size Charts for WooCommerce is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH Product Size Charts for WooCommerce è abilitato ma non in funzione. Devi aver "
+"installato WooCommerce perché questo possa funzionare correttamente."
+
+#: init.php:52
+msgid ""
+"You can't activate the free version of YITH Product Size Charts for WooCommerce "
+"while you are using the premium one."
+msgstr ""
+"Non è possibile attrivare la versione free di YITH Product Size Charts for "
+"WooCommerce se stai già utilizzando la premium."
+
+#: plugin-options/description-options.php:5
+msgid ""
+"YITH Product Size Charts for WooCommerce allows you to create custom size charts. "
+"Go to "
+msgstr ""
+"YITH Product Size Charts for WooCommerce ti permette di creare tabelle misure "
+"personalizzate. Vai a "
+
+#: plugin-options/description-options.php:9
+msgid ""
+". Add your Size Chart and assign it to a product. It will be visible on detail "
+"page of the selected product"
+msgstr ""
+". Aggiungi la tua tabella misure ed assegnala ad un prodotto. Sarà visibile nella "
+"pagina dettaglio del prodotto selezionato"
+
+#: templates/premium.php:231 templates/premium.php:389
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Product Size Charts for WooCommerce"
+"%2$s to benefit from all features!"
+msgstr ""
+"Aggiorna alla %1$sversione premium%2$s di %1$sYITH Product Size Charts for "
+"WooCommerce%2$s per usufruire di tutte le sue funzionalità!"
+
+#: templates/premium.php:234 templates/premium.php:392
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: templates/premium.php:235 templates/premium.php:393
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: templates/premium.php:241
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: templates/premium.php:249
+msgid "More than one size chart"
+msgstr "Assegna più di una tabella misure"
+
+#: templates/premium.php:252
+msgid ""
+"Assign as many size charts as you wish to the same product: choose them directly "
+"from within the product, so that you can show your users several charts showing "
+"information in a tidy and customised way."
+msgstr ""
+"Assegna tutte le tabelle misure che desideri ad uno stesso prodotto, scegliendole "
+"direttamente all’interno del prodotto, così da poter mostrare ai tuoi utenti "
+"diverse tabelle di conversione in maniera ordinata e personalizzata."
+
+#: templates/premium.php:262
+msgid "Display mode"
+msgstr "Modalità di visualizzazione"
+
+#: templates/premium.php:265
+#, php-format
+msgid ""
+"For each new size chart you can select one of the three different display modes "
+"available. You can display your chart as a %1$sWooCommerce tab%2$s, or in a modal "
+"window opening through the specific button added in product page or, finally, as a "
+"tabbed popup with two tabs, one for the chart, one for the description."
+msgstr ""
+"Per ogni tabella misure creata, puoi scegliere una fra le tre diverse modalità di "
+"visualizzazione disponibili. Puoi visualizzare la tabella misure come una  %1$stab "
+"di WooCommerce%2$s, all’interno di una finestra modale che si apre grazie al "
+"pulsante apposito aggiunto nella pagina prodotto oppure come Tabbed Popup, cioè "
+"una popup con due schede, una per la tabella misure e l’altra per la descrizione."
+
+#: templates/premium.php:281
+msgid "Entirely customisable popup buttons"
+msgstr "Pulsante popup interamente personalizzabile"
+
+#: templates/premium.php:284
+#, php-format
+msgid ""
+"You can choose the position, in product page, for the %1$sbutton%2$s that will "
+"open the %1$schart popup%2$s.%3$sAnd what's more, you can also customise its "
+"colors and style as you prefer."
+msgstr ""
+"Per il %1$spulsante%2$s che apre la %1$spopup con la tabella%2$s puoi scegliere la "
+"posizione in cui verrà visualizzato all’interno della pagina del prodotto.%3$sE "
+"c’è di più, puoi anche modificare lo stile e il colore del pulsante come più ti "
+"piace."
+
+#: templates/premium.php:294
+msgid "Popup settings "
+msgstr "Impostazioni Popup "
+
+#: templates/premium.php:297
+#, php-format
+msgid ""
+"Change the %1$sstyle of your size charts%2$s. Set colour, opening effects and "
+"graphic layout of your popup: besides the default one available, you can choose "
+"among %1$s3 premium templates%2$s for your popup and you can also edit overlay "
+"colour and opacity."
+msgstr ""
+"Cambia lo %1$sstile delle popup con le tabelle misure%2$s. Imposta il colore, gli "
+"effetti di apertura e la grafica delle popup: puoi scegliere fra %1$s3 template "
+"premium%2$s per la tua popup, più quello di default, e puoi anche modificare il "
+"colore e l’opacità dell’overlay."
+
+#: templates/premium.php:313
+msgid "Chart style"
+msgstr "Stile delle tabelle"
+
+#: templates/premium.php:316
+#, php-format
+msgid ""
+"Give %1$syour own style to the charts%2$s.%3$sChange their colour and graphic "
+"style: choose among %1$s3 different premium templates%2$s, besides default one, "
+"which can be either used in combination with popup styles or regardless of them."
+msgstr ""
+"Dai %1$suno stile tutto tuo alle tue tabelle%2$s.%3$sCambia il loro colore e la "
+"loro grafica, scegliendo fra i %1$s3 template premium%2$s più quello di default "
+"che possono essere abbinati ai template delle popup o essere utilizzati in maniera "
+"autonoma."
+
+#: templates/premium.php:326
+msgid "Advanced assign"
+msgstr "Assegnazione avanzata"
+
+#: templates/premium.php:329
+#, php-format
+msgid ""
+"Do you want to assign one or more charts to all products belonging to the %1$ssame "
+"category%2$s or to %1$sall products in your store%2$s?%3$sThis feature has been "
+"added for you, then!%2$sAssigning a size chart to a specific category or to all "
+"products and it will be displayed on all the products you want."
+msgstr ""
+"Vuoi assegnare una o più tabelle misure a qualche %1$scategoria%2$s oppure a "
+"%1$stutti i prodotti del tuo store%2$s?%3$sQuesta è la funzionalità che fa per te!"
+"%2$sAssegna facilmente le tabelle misure che preferisci direttamente alle "
+"categorie oppure a tutti i prodotti del tuo store."
+
+#: templates/premium.php:345
+msgid "Bulk Editing"
+msgstr "Bulk Editing"
+
+#: templates/premium.php:348
+#, php-format
+msgid ""
+"Assigning one or more size charts to more products at the same time is easy: "
+"select your products and, then, assign them the table you want using %1$sWordPress "
+"bulk editing tool%2$s."
+msgstr ""
+"Assegnare una o più tabelle misure a più prodotti contemporaneamente è semplice: "
+"seleziona i prodotti e tramite le %1$sazioni di gruppo di WordPress assegna loro "
+"le tabelle che preferisci%2$s."
+
+#: templates/premium.php:358
+msgid "Widget"
+msgstr "Widget"
+
+#: templates/premium.php:361
+#, php-format
+msgid ""
+"A way to make all your tables created in your shop stand out.%3$sWith the widget "
+"%1$s\"YITH Product Size Charts\"%2$s, you'll be able to add a list with the tables "
+"created into the sidebars of your e-commerce, so that they can be highlighted for "
+"your users."
+msgstr ""
+"Un modo per dare risalto a tutte le tabelle misure che hai creato sul tuo shop."
+"%3$sCon il widget %1$s\"YITH Tabelle Misure\"%2$s, avrai la possibilità di "
+"inserire la lista delle tabelle create nelle sidebar del tuo e-commerce, così da "
+"metterle in evidenza agli occhi dei tuoi utenti."
+
+#: templates/premium.php:377
+msgid "Shortcodes, PHP code, tinyMCE"
+msgstr "Shortcodes, codice PHP, tinyMCE"
+
+#: templates/premium.php:380
+#, php-format
+msgid ""
+"Add your size charts easily into your e-commerce with the %1$sshortcodes%2$s "
+"available, using %1$sPHP code%2$s or using %1$stinyMCE editor%2$s."
+msgstr ""
+"Inserisci facilmente nel tuo e-commerce le tabelle misure usando %1$sshortcode"
+"%2$s, %1$scodice PHP%2$s o tramite l’editor %1$stinyMCE%2$s."
+
+#~ msgid ""
+#~ "Assigning one or more size charts to more products at the same time is easy: "
+#~ "select your products and, then, assign them the table you want using "
+#~ "%1$sWooCommerce bulk editing tool%2$s."
+#~ msgstr ""
+#~ "Assegnare una o più tabelle misure a più prodotti contemporaneamente è "
+#~ "semplice: seleziona i prodotti e tramite le %1$sazioni di gruppo di WordPress "
+#~ "assegna loro le tabelle che preferisci%2$s."
+
+#~ msgctxt "Admin:title of Metabox"
+#~ msgid "Product Size Charts"
+#~ msgstr "Tabelle misure"
+
+#~ msgctxt "Admin:title of Metabox tab"
+#~ msgid "Product Size Charts"
+#~ msgstr "Tabelle misure"
+
+#~ msgctxt "Admin:title of Metabox field"
+#~ msgid "Product Size Charts"
+#~ msgstr "Tabelle misure"
+
+#~ msgid "Select size charts you want show in this product"
+#~ msgstr "Seleziona le tabelle misure che vuoi mostrare in questo prodotto"
+
+#~ msgid "Display as"
+#~ msgstr "Mostra come"
+
+#~ msgid "Select how you want display the chosen Product Size Chart."
+#~ msgstr "Selez"
+
+#~ msgid "Tab"
+#~ msgstr "Scheda"
+
+#~ msgid "Popup"
+#~ msgstr "Popup"
+
+#~ msgid "Tabbed Popup"
+#~ msgstr "Popup con schede"
+
+#~ msgid "Show in widget"
+#~ msgstr "Mostra nel widget"
+
+#~ msgid "Check it if you want to display the Product Size Chart in a Widget."
+#~ msgstr ""
+#~ "Spunta questa opzione se vuoi che le tabelle misure vengano mostrate in un "
+#~ "widget."
+
+#~ msgid "Title of description tab"
+#~ msgstr "Titolo scheda descrizione"
+
+#~ msgid ""
+#~ "Enter here the text you want display as title of the description tab of the "
+#~ "selected Product Size Chart."
+#~ msgstr ""
+#~ "Inserisci qui il testo da usare come titolo della scheda descrizione della "
+#~ "tabella misure selezionata."
+
+#~ msgid "Advanced Display"
+#~ msgstr "Visualizzazione avanzata"
+
+#~ msgid "Select the Product Size Chart you want to add"
+#~ msgstr "Seleziona la tabella misure da aggiungere"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "Cancel"
+#~ msgstr "Annulla"
+
+#~ msgctxt "Admin:title of column in products table"
+#~ msgid "Product Size Charts"
+#~ msgstr "Tabelle misure"
+
+#~ msgctxt "plugin name in admin page title"
+#~ msgid "Product Size Charts"
+#~ msgstr "Product Size Charts"
+
+#~ msgctxt "plugin name in admin WP menu"
+#~ msgid "Product Size Charts"
+#~ msgstr "Product Size Charts"
+
+#~ msgid "Select the product in which this size chart has to be shown."
+#~ msgstr "Seleziona il prodotto in cui mostrare la tabella misure."
+
+#~ msgid "Display a list with your Product Size Charts."
+#~ msgstr "Mostra un elenco con le tue tabelle misure."
+
+#~ msgid "YITH Product Size Charts"
+#~ msgstr "YITH Tabella Misure"
+
+#~ msgctxt "default title for plugin widget"
+#~ msgid "Product Size Charts"
+#~ msgstr "Tabelle misure"
+
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+#~ msgid "Number of charts to show"
+#~ msgstr "Numero di tabelle da mostrare"
+
+#~ msgid ""
+#~ "YITH Product Size Charts for WooCommerce Premium is enabled but not effective. "
+#~ "It requires WooCommerce in order to work."
+#~ msgstr ""
+#~ "YITH Product Size Charts for WooCommerce Premium è abilitato ma non in "
+#~ "funzione. Devi aver installato WooCommerce perché questo possa funzionare "
+#~ "correttamente."
+
+#~ msgid "Advanced Options"
+#~ msgstr "Opzioni avanzate"
+
+#~ msgid "Charts for all products"
+#~ msgstr "Tabelle per tutti i prodotti"
+
+#~ msgid "Select the Product Size Charts you want to display in all products"
+#~ msgstr "Seleziona le tabelle misure che vuoi mostrare su tutti i prodotti"
+
+#~ msgid "Category Options"
+#~ msgstr "Opzioni categoria"
+
+#~ msgid ""
+#~ "Select the Product Size Charts you want to display in all products belonging to "
+#~ "category %s"
+#~ msgstr ""
+#~ "Seleziona le tabelle misure che vuoi mostrare su tutti i prodotti appartenenti "
+#~ "alla categoria %s"
+
+#~ msgctxt "Admin:title of field description in description-tab"
+#~ msgid "Product Size Charts"
+#~ msgstr "Tabelle misure prodotti"
+
+#~ msgid "Popup Options"
+#~ msgstr "Opzioni popup"
+
+#~ msgid "Style"
+#~ msgstr "Stile"
+
+#~ msgid "Select the style you want to apply to all popups"
+#~ msgstr "Seleziona lo stile da applicare a tutte le popup"
+
+#~ msgid "Default"
+#~ msgstr "Predefinito"
+
+#~ msgid "Informal"
+#~ msgstr "Informale"
+
+#~ msgid "Elegant"
+#~ msgstr "Elegante"
+
+#~ msgid "Casual"
+#~ msgstr "Casual"
+
+#~ msgid "Main Color"
+#~ msgstr "Colore principale"
+
+#~ msgid "Select the main color for popups"
+#~ msgstr "Seleziona il colore principale per le popup"
+
+#~ msgid "Position"
+#~ msgstr "Posizione"
+
+#~ msgid "Select the position you want to apply to all popups"
+#~ msgstr "Seleziona la posizione da applicare a tutte le popup"
+
+#~ msgid "Center"
+#~ msgstr "Centrato"
+
+#~ msgid "Top Left"
+#~ msgstr "In alto a sinistra"
+
+#~ msgid "Top Right"
+#~ msgstr "In alto a destra"
+
+#~ msgid "Bottom Left"
+#~ msgstr "In basso a sinistra"
+
+#~ msgid "Bottom Right"
+#~ msgstr "In basso a destra"
+
+#~ msgid "Top Center"
+#~ msgstr "Centrato in alto"
+
+#~ msgid "Bottom Center"
+#~ msgstr "Centrato in basso"
+
+#~ msgid "Effect"
+#~ msgstr "Effetto"
+
+#~ msgid "Select the effect you want to apply to all popups"
+#~ msgstr "Seleziona l'effetto da applicare a tutte le popup"
+
+#~ msgid "Fade"
+#~ msgstr "Dissolvenza"
+
+#~ msgid "Slide"
+#~ msgstr "Scorrimento"
+
+#~ msgid "Zoom In"
+#~ msgstr "Zoom avanti"
+
+#~ msgid "Zoom Out"
+#~ msgstr "Zoom indietro"
+
+#~ msgid "Overlay Color"
+#~ msgstr "Colore overlay"
+
+#~ msgid "Select the color you want to apply to popup overlay"
+#~ msgstr "Seleziona il colore di overlay da applicare alla popup"
+
+#~ msgid "Overlay Opacity"
+#~ msgstr "Opacità overlay"
+
+#~ msgid "Select the opacity you want to set for popup overlay"
+#~ msgstr "Imposta il valore per l'opacità dell'overlay della popup"
+
+#~ msgid "Popup Button Options"
+#~ msgstr "Opzioni pulsante popup"
+
+#~ msgid "Button Position"
+#~ msgstr "Posizione pulsante"
+
+#~ msgid "Select the position you want to apply to buttons in all popups."
+#~ msgstr "Seleziona la posizione dei pulsanti in tutte le popup."
+
+#~ msgid "Before summary"
+#~ msgstr "Prima del riepilogo"
+
+#~ msgid "Before description"
+#~ msgstr "Prima della descrizione"
+
+#~ msgid "After description"
+#~ msgstr "Dopo la descrizione"
+
+#~ msgid "After \"Add to Cart\" Button"
+#~ msgstr "Dopo il pulsante \"Aggiungi al carrello\""
+
+#~ msgid "After summary"
+#~ msgstr "Dopo il riepilogo"
+
+#~ msgid "Button Color"
+#~ msgstr "Colore pulsante"
+
+#~ msgid "Select the color you want to apply to the popup button"
+#~ msgstr "Seleziona il colore da applicare al pulsante della popup"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Colore testo pulsante"
+
+#~ msgid "Select the color you want to apply to popup button text"
+#~ msgstr "Seleziona il colore da applicare al testo del pulsante"
+
+#~ msgid "Border Radius"
+#~ msgstr "Angoli arrotondati"
+
+#~ msgid "Select the border radius for popup"
+#~ msgstr "Seleziona il valore dei bordi arrotondati per la popup"
+
+#~ msgid "Padding"
+#~ msgstr "Padding"
+
+#~ msgid "Top"
+#~ msgstr "Sopra"
+
+#~ msgid "Right"
+#~ msgstr "Destra"
+
+#~ msgid "Bottom"
+#~ msgstr "Sotto"
+
+#~ msgid "Left"
+#~ msgstr "Sinistra"
+
+#~ msgid "Button Shadow Color"
+#~ msgstr "Colore ombreggiatura pulsante"
+
+#~ msgid "Select the color you want to apply to popup button shadow"
+#~ msgstr "Seleziona il colore da applicare all'ombreggiatura del pulsante popup"
+
+#~ msgid "Table Options"
+#~ msgstr "Opzioni tabella"
+
+#~ msgid "Select the style you want to apply to all tables"
+#~ msgstr "Seleziona lo stile da applicare a tutte le tabelle"
+
+#~ msgid "Select the main color for tables"
+#~ msgstr "Seleziona il colore principale per le tabelle"
+
+#~ msgid "Select the border radius for popup overlay"
+#~ msgstr "Seleziona il valore per"

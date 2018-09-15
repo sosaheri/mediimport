@@ -1,0 +1,1079 @@
+# Translation of Plugins - YITH WooCommerce Recover Abandoned Cart - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Recover Abandoned Cart - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-09 12:56:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Recover Abandoned Cart - Stable (latest release)\n"
+
+#: plugin-fw/lib/yit-upgrade.php:89
+msgid "An unexpected error occurred, please try again later. Thanks!"
+msgstr "Ha ocurrido un error inesperado, por favor, inténtalo de nuevo más tarde. ¡Gracias!"
+
+#: includes/class.yith-wc-abandoned-cart-privacy.php:193
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: includes/class.yith-wc-abandoned-cart-privacy.php:192
+msgid "Cart Total"
+msgstr "Total del carrito"
+
+#: includes/class.yith-wc-abandoned-cart-privacy.php:191
+msgid "Cart Creation Date"
+msgstr "Fecha de creación del carrito"
+
+#: includes/class.yith-wc-abandoned-cart-privacy.php:190
+msgid "Cart Id"
+msgstr "ID del carrito"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wc-abandoned-cart-privacy.php:167
+msgid "Personal data within subscription %s has been retained."
+msgstr "Se han conservado los datos personales dentro de la suscripción %s."
+
+#. Translators: %s Order number.
+#: includes/class.yith-wc-abandoned-cart-privacy.php:163
+msgid "Removed abandoned cart %s."
+msgstr "Eliminado carrito abandonado %s."
+
+#: includes/class.yith-wc-abandoned-cart-privacy.php:113
+msgid "Recover Abandoned Cart"
+msgstr "Recover Abandoned Cart"
+
+#: includes/class.yith-wc-abandoned-cart-privacy.php:62
+#: includes/class.yith-wc-abandoned-cart-privacy.php:79
+msgid "Customer Abandoned Cart"
+msgstr "Carrito abandonado del cliente"
+
+#: plugin-fw/templates/fields/select-buttons.php:33
+msgid "Deselect All"
+msgstr "Deseleccionar todo"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search Product"
+msgstr "Buscar producto"
+
+#: plugin-fw/templates/fields/ajax-posts.php:58
+msgid "Search Posts"
+msgstr "Buscar publicaciones"
+
+#: plugin-fw/templates/fields/select-buttons.php:26
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: plugin-fw/templates/fields/icons.php:58
+msgid "Set Default"
+msgstr "Establecer por defecto"
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr "http://yithemes.com/"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#. #-#-#-#-#  yith-woocommerce-recover-abandoned-cart-code.pot (YITH
+#. WooCommerce Recover Abandoned Cart 1.2.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  yith-woocommerce-recover-abandoned-cart-code.pot (YITH
+#. WooCommerce Recover Abandoned Cart 1.2.1)  #-#-#-#-#
+#. Description of the plugin/theme
+msgid "YITH WooCommerce Recover Abandoned Cart"
+msgstr "YITH WooCommerce Recover Abandoned Cart"
+
+#: templates/cart_content.php:122
+msgid "Cart Subtotal"
+msgstr "Subtotal del carrito"
+
+#: templates/admin/premium.php:380
+msgid "Read the information of the plugin report, so that you can easily go back to the recap data of your site. The overall amount of %1$sabandoned carts%2$s and those recovered, the %1$sconversion rate%2$s of the carts, and the total %1$searnings%2$s that they had on the economy of your shop.And for statistics lovers, the amount of emails sent, and how many visits these have generated.%3$sEverything to make your e-commerce better."
+msgstr "Lee la información del informe del plugin para que puedas fácilmente volver y recuperar dato de tu sitio. La cantidad total de %1$scarritos abandonados%2$s y los recuperados, el %1$sratio de conversión%2$s de los carritos, y el total de %1$sganancias%2$s que han conseguido de tu tienda. Y para los amantes de las estadísticas, la cantidad de correos enviados, y cuántas visitas han generado.%3$sTodo para hacer mejor tu e-commerce."
+
+#: templates/admin/premium.php:377
+msgid "Advanced report"
+msgstr "Informe avanzado"
+
+#: templates/admin/premium.php:361
+msgid "A complete list of the traced emails of your %1$sshop%2$s to have an order history of all users that have thought to purchase on your shop.%3$sThanks to the general page, you will be able to see at a glance the complete list of all generated %1$semails%2$s from the plugin and their related information, just like the IDs of the abandoned carts and the date in which they were sent."
+msgstr "Una lista completa de los correos electrónicos de tu %1$stienda%2$s para tener un histórico de pedidos de todos los usuarios que han pensado comprar en tu tienda.%3$sGracias a la página general, podrás ver de un vistazo la lista completa de todos los %1$scorreos electrónicos%2$s creados por el plugin y su información relacionada, como los IDs de los carritos abandonados y la fecha en la que se enviaron."
+
+#: templates/admin/premium.php:358
+msgid "Log"
+msgstr "Registro"
+
+#: templates/admin/premium.php:348
+msgid "Currently WPML is the most popular system among those who want a multi-language and multi-currency site. WPML compatibility symbolizes an added value to any products, and YITH WooCommerce Recover Abandoned Cart is no less so.%3$sThe plugin will let you %1$screate an email in the different languages%2$s set in your site: the system will send it in the language related to the one of the abandoned cart of the user."
+msgstr "Actualmente, WPML es el sistema más popular si quieres un sitio multilenguaje y multimoneda. Ser compatible con WPML simboliza  un valor añadido a cualquier producto, y YITH WooCommerce Recover Abandoned Cart o iba a ser menos.%3$sEl plugin te permitirá %1$screar un correo electrónico en los distintos idiomas%2$s configurados en tu sitio: el sistema lo enviará en el idioma relacionado con el carrito abandonado del usuario."
+
+#: templates/admin/premium.php:345
+msgid "WPML"
+msgstr "WPML"
+
+#: templates/admin/premium.php:329
+msgid "With few and simple options, you will be able to configure the automatic sending of emails to users that have abandoned their cart on your site.%3$sAfter a certain time span since the cart was abandoned, the email will be generated automatically: in this way, there could be %1$snew invitations every day%2$s, which likely will be converted in purchase orders."
+msgstr "Con solo unas pocas opciones serás capaz de configurar en envío automático de correos electrónicos a usuarios que hayan abandonado su carrito en el sitio.%3$sDespués de un cierto tiempo desde el abandono del carrito se generará automáticamente el correo electrónico: de este modo puede que haya %1$snuevas invitaciones cada día%2$s, lo que puede que se conviertan en pedidos de compra."
+
+#: templates/admin/premium.php:326
+msgid "Automatic sending of emails "
+msgstr "Envio automático de correos"
+
+#: templates/admin/premium.php:316
+msgid "The most seducing weapon to approach users that have already visited your shop. A different coupon for each email template: you can configure %1$sdiscounts%2$s and %1$sexpiration date%2$s, in order to urge your users to hurry and reduce the possible useless doubts they can have."
+msgstr "El arma más seductora con la que llegar a los usuarios que ya han visitado tu tienda. Un cupón distinto para cada plantilla de correo electrónico: puedes configurar %1$sdescuentos%2$s y %1$sla fecha de caducidad%2$s, para apremiar a tus usuarios a darse prisa y reducir las posibles dudas inútiles que pudiesen tener."
+
+#: templates/admin/premium.php:313
+msgid "Coupons"
+msgstr "Cupones"
+
+#: templates/admin/premium.php:297
+msgid "Endless email templates that you can configure to encourage reluctant users to %1$scome back to your shop%2$s and evaluate the purchase offer.%3$sWrite emails and schedule their sending, proposing new contents and always more interesting offers. Do not let it go is the first rule to aim to success!"
+msgstr "Infinitas plantillas de correo electrónico que puedes configurar para animar a los usuarios reacios a %1$svolver a tu tienda%2$s y valorar la oferta de compra.%3$sEscribe correos electrónicos y programa su envío, proponiendo nuevos contenidos y ofertas siempre más interesantes. ¡No dejar que se vayan es la primera regla para alcanzar el éxito!"
+
+#: templates/admin/premium.php:294
+msgid "Different email templates "
+msgstr "Distintas plantillas de correo electrónico"
+
+#: templates/admin/premium.php:284
+msgid "What's more satisfying than seeing an abandoned cart turning into a purchase order? %1$sYou can get emails for each successful conversion%2$s, containing all information about the order and the user who made it. Keep always updated about what happens in your e-commerce shop."
+msgstr "¿Qué hay más satisfactorio que ver que un carrito abandonado se convierte en un pedido de compra? %1$sPuedes recibir correos electrónicos por cada conversión con éxito%2$s, conteniendo toda la información sobre el pedido y el usuario que lo hizo. Estate siempre al tanto del lo que pasa en tu tienda e-commmerce."
+
+#: templates/admin/premium.php:281
+msgid "Notification email"
+msgstr "Correo electrónico de aviso"
+
+#: templates/admin/premium.php:265
+msgid "It happens many times that an %1$sunregistered%2$s user was so near to purchase, had filled our %1$scheckout%2$s form but then had not completed the order for connection problems or for doubts aroused at the last minute.%3$sWith the premium version of the plugin, you will be able to track also these users and contact them in a later moment to remind them of complete their missed purchase."
+msgstr "Pasa muchas veces que un usuario %1$sno registrado%2$s estuvo a punto de comprar, rellenó nuestro formulario en la %1$spágina de pago%2$s pero luego no completó el pedido por problemas de conexión o dudas que le surgieron en el último minuto.%3$sCon la versión premium del plugin podrás hacer seguimiento también de estos usuarios y contactarles posteriormente para recordarles que completen su compra olvidada."
+
+#: templates/admin/premium.php:262
+msgid "Guest users"
+msgstr "Invitados"
+
+#: templates/admin/premium.php:252
+msgid "Recovering information about a user who has abandoned the cart might turn out to be a very powerful weapon to improve your earnings.%3$sYou can limit your %1$smarketing strategy%2$s to some users only, those who have registered into your site and with a specific %1$srole%2$s, the one you specify from inside the plugin."
+msgstr "Recuperar información sobre un usuario que ha abandonado el carrito puede convertirse en un arma muy potente para mejorar tus ganancias.%3$sPuedes limitar tu %1$sestrategia de marketing%2$s a solo algunos usuarios, a esos que ya se han registrado en tu sitio y con un %1$sperfil%2$s específico, el que especifiques en el plugin."
+
+#: templates/admin/premium.php:249
+msgid "Type of users"
+msgstr "Tipo de usuario"
+
+#: templates/admin/premium.php:241
+msgid "Premium Features"
+msgstr "Características premium"
+
+#: templates/admin/premium.php:235 templates/admin/premium.php:393
+msgid "to the premium version"
+msgstr "a la versión premium"
+
+#: templates/admin/premium.php:234 templates/admin/premium.php:392
+msgid "UPGRADE"
+msgstr "ACTUALIZA"
+
+#: templates/admin/premium.php:231 templates/admin/premium.php:389
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Recover Abandoned Cart%2$s to benefit from all features!"
+msgstr "¡Actualiza a la %1$sversión premium%2$s de %1$sYITH WooCommerce Recover Abandoned Cart%2$s para beneficiarte de todas sus características!"
+
+#: templates/admin/metabox_cart_info_content.php:30
+msgid "User email:"
+msgstr "Correo electrónico del usuario:"
+
+#: templates/admin/metabox_cart_info_content.php:25
+msgid "User:"
+msgstr "Usuario:"
+
+#: templates/admin/metabox_cart_info_content.php:20
+msgid "Cart Last Update:"
+msgstr "Última actualización del carrito:"
+
+#: templates/admin/metabox_cart_info_content.php:15
+msgid "Cart Status:"
+msgstr "Estado del carrito:"
+
+#: templates/admin/metabox_cart_content.php:20 templates/cart_content.php:18
+msgid "Total"
+msgstr "Total"
+
+#: templates/admin/metabox_cart_content.php:19 templates/cart_content.php:17
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: templates/admin/metabox_cart_content.php:18 templates/cart_content.php:16
+msgid "Product Price"
+msgstr "Precio del producto"
+
+#: templates/admin/metabox_cart_content.php:17 templates/cart_content.php:15
+msgid "Product"
+msgstr "Producto"
+
+#: templates/admin/metabox_cart_content.php:16 templates/cart_content.php:14
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: templates/admin/metabox_cart_action.php:19
+msgid "Email action:"
+msgstr "Acción del correo electrónico:"
+
+#: templates/admin/metabox_cart_action.php:14
+msgid "Email sent:"
+msgstr "Correo electrónico enviado:"
+
+#: plugin-options/general-options.php:23
+msgid "Minutes that have to pass to consider a cart abandoned"
+msgstr "Minutos que tienen que pasar para considerar abandonado un carrito"
+
+#: plugin-options/general-options.php:22
+msgid "Cart abandoned cut-off time"
+msgstr "Tiempo de corte de carrito abandonado"
+
+#: plugin-options/general-options.php:14
+msgid "Enable Recover Abandoned Cart"
+msgstr "Activar la recuperación de carritos abandonados"
+
+#: plugin-options/general-options.php:8
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: plugin-options/email-options.php:39
+msgid "Email content"
+msgstr "Contenido del correo electrónico"
+
+#: plugin-options/email-options.php:30
+msgid "Email Subject"
+msgstr "Asunto del correo electrónico"
+
+#: plugin-options/email-options.php:22
+msgid "Email Sender"
+msgstr "Emisor del correo electrónico"
+
+#: plugin-options/email-options.php:14
+msgid "Email Sender Name"
+msgstr "Nombre de emisor del correo electrónico"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+msgid "Reset Defaults"
+msgstr "Restablecer a valores por defecto"
+
+#: plugin-fw/templates/fields/upload.php:19
+msgid "Reset"
+msgstr "Restablecer"
+
+#: plugin-fw/templates/fields/sidebars.php:52
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Choose a sidebar"
+msgstr "Elige una barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:25
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:28
+#: plugin-fw/templates/fields/sidebars.php:31
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:22
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Añadir imágenes"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add to gallery"
+msgstr "Añadir a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add Images to Gallery"
+msgstr "Añadir imágenes a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete image"
+msgstr "Borrar imagen"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:92
+msgid "(Default: <i %s></i> )"
+msgstr "(Por defecto: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:90
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Por defecto: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/fields/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr "¿Quieres borrar la pestaña personalizada?"
+
+#: plugin-fw/templates/fields/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Añadir pestaña personalizada de producto"
+
+#: plugin-fw/templates/fields/customtabs.php:53
+#: plugin-fw/templates/fields/customtabs.php:95
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenido de la pestaña. (HTML permitido)"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#: plugin-fw/templates/fields/customtabs.php:94
+msgid "Value"
+msgstr "Valor"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Expand all"
+msgstr "Expandir todo"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Close all"
+msgstr "Cerrar todo"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:76
+msgid "Image preview"
+msgstr "Vista previa de la imagen"
+
+#: plugin-fw/templates/fields/upload.php:18
+#: plugin-fw/templates/metaboxes/types/icon-list.php:70
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Subir"
+
+#: plugin-fw/templates/fields/customtabs.php:37
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Remove"
+msgstr "Borrar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "Renovar licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "Pedir de nuevo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "Caducado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "Expulsado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "Renovar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "%1s de %2s"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "Acciones de licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+msgid "Club Subscription"
+msgstr "Suscripción al club"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "Restante"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "Caduca"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+msgid "Product Name"
+msgstr "Nombre del producto"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "Activo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "Activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "Producto a activar"
+msgstr[1] "Productos a activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "Actualizar la información de la licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "¿Has actualizado tus licencias? ¿Has solicitado una ampliación? Actualiza la información relativa a tus productos."
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Activación de licencia de Yithemes"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"Si has comprado uno de nuestros productos antes del 27 de enero de 2015 puedes beneficiarte de soporte y actualizaciones (los servicios ofrecidos con la licencia)\n"
+"hasta el 27 de enero de 2016 y no tienes que comprarla de nuevo para obtener una nueva clave de licencia, debido a que, antes de esa fecha, tu licencia solía activarla automáticamente nuestro sistema.\n"
+"Después del 27 de enero de 2016, sin embargo, si quieres beneficiarte de soporte y actualizaciones tienes que comprar una nueva licencia y activarla mediante la clave de licencia que se te\n"
+"facilitará y que encontrarás en tu cuenta de YIThemes, en la sección \"My licenses\"."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "No encuentro la clave de licencia para activar el tema que he comprado hace tiempo. ¿Dónde la puedo encontrar?"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "Activación de la Licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:688
+msgid "License key deactivated for website"
+msgstr "Clave de licencia desactivada para la web"
+
+#: plugin-fw/licence/lib/yit-licence.php:687
+msgid "License successfully activated"
+msgstr "Licencia activada con éxito"
+
+#: plugin-fw/licence/lib/yit-licence.php:687
+msgid "Great"
+msgstr "Genial"
+
+#: plugin-fw/licence/lib/yit-licence.php:686
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "El producto actual no está incluido en tu clave de suscripción al club YITH"
+
+#: plugin-fw/licence/lib/yit-licence.php:685
+msgid "License key has been banned"
+msgstr "La clave de licencia se ha rechazado"
+
+#: plugin-fw/licence/lib/yit-licence.php:684
+msgid "License key has expired"
+msgstr "La clave de licencia ha caducado"
+
+#: plugin-fw/licence/lib/yit-licence.php:683
+msgid "Invalid security key"
+msgstr "Clave de seguridad no válida"
+
+#: plugin-fw/licence/lib/yit-licence.php:682
+msgid "Invalid instance ID"
+msgstr "ID de la instancia no válido"
+
+#: plugin-fw/licence/lib/yit-licence.php:681
+msgid "Maximum number of activations exceeded"
+msgstr "Superado el número máximo de activaciones"
+
+#: plugin-fw/licence/lib/yit-licence.php:680
+msgid "Software has been deactivated"
+msgstr "El software se ha desactivado"
+
+#: plugin-fw/licence/lib/yit-licence.php:679
+msgid "Invalid license key"
+msgstr "Clave de licencia inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "Invalid Request"
+msgstr "Petición no válida"
+
+#: plugin-fw/licence/lib/yit-licence.php:192
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "¿Estás seguro de querer desactivar la licencia para este sitio?"
+
+#: plugin-fw/licence/lib/yit-licence.php:191
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:189
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "No es posible conectar con el servidor remoto. Por favor inténtalo de nuevo más tarde. ¡Gracias!"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "%s and %s fields cannot be empty"
+msgstr "Los campos %s y %s no pueden estar vacíos"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "El campo %s no puede estar vacío"
+
+#: plugin-fw/lib/yit-upgrade.php:585
+msgid "Update Plugin"
+msgstr "Actualizar plugin"
+
+#: plugin-fw/lib/yit-upgrade.php:578
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "No tienes permisos suficientes para actualizar los plugins en este sitio."
+
+#: plugin-fw/lib/yit-upgrade.php:574
+msgid "You can't update the plugins for this site."
+msgstr "No puedes actualizar los plugins en este sitio."
+
+#: plugin-fw/lib/yit-upgrade.php:501
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Revisa los detalles de la versión %4$s</a> o <a href=\"%5$s\">actualiza ahora</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:499
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Revisa los detalles de la versión %4$s</a>. <em>La actualización automática no está disponible para este plugin, por favor, <a href=\"%5$s\" title=\"License activation\">activa</a> tu copia de %6s.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:497
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Revisa los detalles de la versión %4$s</a>. <em>Tienes que activar el plugin en un solo sitio de la red para beneficiarte de las actualizaciones automáticas.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:495
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Revisa los detalles de la versión %4$s</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:335
+msgid "Could not create Temporary file."
+msgstr "No se pudo crear el archivo temporal."
+
+#: plugin-fw/lib/yit-upgrade.php:322
+msgid "Invalid URL Provided."
+msgstr "URL facilitada no válida."
+
+#: plugin-fw/lib/yit-upgrade.php:288
+msgid "YIThemes Repository"
+msgstr "Repositorio de YIThemes"
+
+#: plugin-fw/lib/yit-upgrade.php:188
+msgid "Update now."
+msgstr "Actualizar ahora"
+
+#: plugin-fw/lib/yit-upgrade.php:187
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "por favor, <a href=\"%activate_link%\">activa</a> tu copia de %plugin_name%."
+
+#: plugin-fw/lib/yit-upgrade.php:186
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "La actualización automática no está disponible para este plugin, "
+
+#: plugin-fw/lib/yit-upgrade.php:185
+msgid "View version %latest% details."
+msgstr "Ver detalles de la %última% versión."
+
+#: plugin-fw/lib/yit-upgrade.php:184
+msgid "There is a new version of %plugin_name% available."
+msgstr "Hay una nueva versión disponible de %plugin_name%."
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"A partir de ahora puedes encontrar el panel de opciones de los plugins YITH en el menu YITH plugins.\n"
+"Cada vez que se añada uno de nuestros plugins se añadirá un nuevo elemento a este menú.\n"
+"Por ejemplo, después de actualizar, las opciones del plugin (como por ejemplo YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"se moverán a la ubicación anterior de la pestaña YITH plugins."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Plugins actualizados"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "y"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Descubre todos nuestros plugins disponibles en:"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"A partir de ahora puedes encontrar todas las opciones del plugin en en menú YITH plugins.\n"
+"Los ajustes de personalización del plugin estarán disponibles como un nuevo elemento en el menú YITH plugins."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Plugins activados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:534
+msgid "Sorting successful."
+msgstr "Ordenado con éxito."
+
+#: plugin-fw/lib/yit-plugin-panel.php:533
+msgid "Sorry, import is disabled."
+msgstr "Lo siento, la importación está desactivada."
+
+#: plugin-fw/lib/yit-plugin-panel.php:532
+msgid "The added file is not valid."
+msgstr "El archivo añadido no es válido."
+
+#: plugin-fw/lib/yit-plugin-panel.php:531
+msgid "An error has occurred during import. Please try again."
+msgstr "Ocurrió un error durante la importación. Por favor, inténtalo de nuevo."
+
+#: plugin-fw/lib/yit-plugin-panel.php:530
+msgid "Database imported correctly."
+msgstr "Base de datos importada correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:528
+#: plugin-fw/lib/yit-plugin-panel.php:529
+msgid "Element updated correctly."
+msgstr "Elemento actualizado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:527
+msgid "Element deleted correctly."
+msgstr "Elemento borrado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:526
+msgid "Settings reset"
+msgstr "Ajustes restablecidos"
+
+#: plugin-fw/lib/yit-plugin-panel.php:525
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:524
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "El elemento que has introducido ya existe. Por favor, introduce otro nombre."
+
+#: plugin-fw/lib/yit-plugin-panel.php:390
+#: plugin-fw/lib/yit-plugin-subpanel.php:161
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:389
+#: plugin-fw/lib/yit-plugin-subpanel.php:160
+msgid "Reset to default"
+msgstr "Restablecer a valores por defecto"
+
+#: plugin-fw/lib/yit-plugin-panel.php:387
+#: plugin-fw/lib/yit-plugin-subpanel.php:158
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si sigues con esta acción restablecerás todas las opciones de esta página."
+
+#: plugin-fw/lib/yit-plugin-panel.php:384
+#: plugin-fw/lib/yit-plugin-subpanel.php:155
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:11
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: plugin-fw/lib/yit-plugin-panel.php:330
+#: plugin-fw/lib/yit-plugin-panel.php:333
+msgid "How to install premium version"
+msgstr "Cómo instalar la versión premium"
+
+#: plugin-fw/lib/yit-plugin-panel.php:72
+msgid "Plugin Settings"
+msgstr "Ajustes del plugin"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:382
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Los cambios que has hecho se perderán si abandonas esta página."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "Subir varios archivos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "Añadir %s desde imágenes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/fields/customtabs.php:46
+#: plugin-fw/templates/fields/customtabs.php:89
+msgid "Name"
+msgstr "Nombre"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Mostrar portada de la %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "ajustes de diseño"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "Diseño de página sencilla de este portafolio"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Diseño simple"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Establece un nombre único par cada URL de página de categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Reescritura de taxonomía"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Si quieres usar categorías en el portafolio define  un nombre para la taxonomía. El nombre debe ser un slug ( no debe contener mayúsculas ni espacios) y no debe tener más de 32 caracteres de largo (restricción de la estructura de la base de datos)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Define una etiqueta en plural (título del portafolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "Etiqueta en plural"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Define una etiqueta en singular (título del portafolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "Etiqueta en singular"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Nombre de identificación único en la URL de cada producto (slug de la publicación si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Reescritura"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Diseño de este %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Tipo"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "Ajustes de %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "Nombre de la nueva categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Categoría superior"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+#: plugin-fw/templates/fields/ajax-terms.php:57
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "Categorías de %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "No hay ninguna %s en la papelera"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "Ninguna %s encontrada"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "Ver %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "Todas las %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "Nueva %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Añadir nueva %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "Añadir %s"
+
+#: init.php:68
+msgid "YITH WooCommerce Recover Abandoned Cart is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Recover Abandoned Cart pero no es funcional. Requiere WooCommerce para funcionar."
+
+#: init.php:46
+msgid "You can't activate the free version of YITH WooCommerce Recover Abandoned Cart while you are using the premium one."
+msgstr "No puedes activar la versión gratuita de YITH WooCommerce Recover Abandoned Cart si estás usando la versión premium."
+
+#: includes/emails/class.yith-wc-abandoned-cart-email.php:31
+msgid "This is the email sent to the customer from the admin in YITH WooCommerce Recover Abandoned Cart Plugin"
+msgstr "Este es el correo electrónico enviado al cliente desde la administración del plugin YITH WooCommerce Recover Abandoned Cart"
+
+#: includes/emails/class.yith-wc-abandoned-cart-email.php:30
+msgid "Recover Abandoned Cart Email"
+msgstr "Correo electrónico de recuperación de carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart.php:110
+msgid "Not found in Trash"
+msgstr "No hay nada en la papelera"
+
+#: includes/class-yith-wc-abandoned-cart.php:109
+msgid "Not found"
+msgstr "No encontrado"
+
+#: includes/class-yith-wc-abandoned-cart.php:108
+msgid "Search Abandoned Cart"
+msgstr "Buscar carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart.php:107
+msgid "Update Abandoned Cart"
+msgstr "Actualizar carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart.php:106
+msgid "Edit Abandoned Cart"
+msgstr "Editar carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart.php:104
+#: includes/class-yith-wc-abandoned-cart.php:105
+msgid "Add New Abandoned Cart"
+msgstr "Añadir nuevo carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart.php:103
+msgid "View Abandoned Carts"
+msgstr "Ver carritos abandonados"
+
+#: includes/class-yith-wc-abandoned-cart.php:102
+msgid "All Abandoned Carts"
+msgstr "Todos los carritos abandonados"
+
+#: includes/class-yith-wc-abandoned-cart.php:101
+msgid "Parent Item:"
+msgstr "Elemento superior:"
+
+#: includes/class-yith-wc-abandoned-cart.php:99
+msgctxt "Post Type Singular Name"
+msgid "Abandoned Cart"
+msgstr "Carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart.php:98
+msgctxt "Post Type General Name"
+msgid "Abandoned Cart"
+msgstr "Carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:346
+msgid "Plugin Documentation"
+msgstr "Documentación del plugin"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:182
+#: includes/class-yith-wc-abandoned-cart-admin.php:183
+#: includes/class-yith-wc-abandoned-cart.php:100
+msgid "Abandoned Cart"
+msgstr "Carrito abandonado"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:176
+#: includes/class-yith-wc-abandoned-cart-admin.php:323
+msgid "Premium Version"
+msgstr "Versión premium"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:172
+#: plugin-options/email-options.php:8
+msgid "Email Template"
+msgstr "Plantilla de correo electrónico"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:171
+#: includes/class-yith-wc-abandoned-cart.php:114
+msgid "Carts"
+msgstr "Carritos"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:170
+#: includes/class-yith-wc-abandoned-cart-admin.php:321
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:73
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-yith-wc-abandoned-cart-admin.php:132
+msgid "Email Sent"
+msgstr "Correo electrónico enviado"
+
+#: includes/admin/tinymce/tinymce-plugin-langs.php:14
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: includes/admin/tinymce/tinymce-plugin-langs.php:13
+msgid "User Last Name"
+msgstr "Apellidos del usuario"
+
+#: includes/admin/tinymce/tinymce-plugin-langs.php:12
+msgid "User First Name"
+msgstr "Nombre del usuario"
+
+#: includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:121
+msgid "Cart Action"
+msgstr "Acción del carrito"
+
+#: includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:98
+#: includes/admin/tinymce/tinymce-plugin-langs.php:15
+msgid "Cart Content"
+msgstr "Contenido del carrito"
+
+#: includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:66
+msgid "Cart Info"
+msgstr "Información del carrito"
+
+#: includes/admin/class-wp-carts-list-table.php:209
+#: templates/admin/metabox_cart_action.php:20
+msgid "Send email"
+msgstr "Enviar correo electrónico"
+
+#: includes/admin/class-wp-carts-list-table.php:202
+msgid "View"
+msgstr "Ver"
+
+#: includes/admin/class-wp-carts-list-table.php:174
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/admin/class-wp-carts-list-table.php:173
+msgid "Send Email"
+msgstr "Enviar correo electrónico"
+
+#: includes/admin/class-wp-carts-list-table.php:135
+#: includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:133
+msgid "Not sent"
+msgstr "No enviado"
+
+#: includes/admin/class-wp-carts-list-table.php:32
+msgid "Action"
+msgstr "Acción"
+
+#: includes/admin/class-wp-carts-list-table.php:31
+msgid "Last update"
+msgstr "Última actualización"
+
+#: includes/admin/class-wp-carts-list-table.php:30
+msgid "Email sent"
+msgstr "Correo electrónico enviado"
+
+#: includes/admin/class-wp-carts-list-table.php:29
+msgid "Status"
+msgstr "Estado"
+
+#: includes/admin/class-wp-carts-list-table.php:28
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: includes/admin/class-wp-carts-list-table.php:27
+#: plugin-fw/licence/lib/yit-licence.php:190
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/admin/class-wp-carts-list-table.php:26
+msgid "Info"
+msgstr "Información"

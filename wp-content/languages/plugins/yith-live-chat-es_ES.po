@@ -1,0 +1,1343 @@
+# Translation of Plugins - YITH Live Chat - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - YITH Live Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-01 21:12:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - YITH Live Chat - Stable (latest release)\n"
+
+#: plugin-fw/templates/fields/select-buttons.php:33
+msgid "Deselect All"
+msgstr "Deseleccionar todo"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search Product"
+msgstr "Buscar producto"
+
+#: plugin-fw/templates/fields/ajax-posts.php:58
+msgid "Search Posts"
+msgstr "Buscar publicaciones"
+
+#: plugin-fw/templates/fields/select-buttons.php:26
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: plugin-fw/templates/fields/icons.php:58
+msgid "Set Default"
+msgstr "Establecer por defecto"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+msgid "Club Subscription"
+msgstr "Suscripción al Club"
+
+#: plugin-fw/licence/lib/yit-licence.php:686
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "Producto actual no está incluido en la clave de suscripción de Club de YITH"
+
+#: plugin-fw/lib/yit-plugin-panel.php:322
+#: plugin-fw/lib/yit-plugin-panel.php:325
+msgid "How to install premium version"
+msgstr "Cómo instalar la versión premium"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#: templates/admin/premium.php:429
+msgid "If you think that adding the chat window on every page of your site is useless, you can well do without it and select only the pages on which you want to activate the chat service. This is the perfect solution in case you want to create a dedicated support page and let your users access it via chat and only from that page."
+msgstr "Si crees que añadir la ventana del chat en cada página de tu sitio es inútil, también puedes hacerlo sin ella y seleccionar sólo las páginas en las que quieres activar el servicio del chat. Esta es la solución perfecta en caso de que quieras crear una página de soporte dedicada y permitir a tus usuarios acceder a través de chat sólo desde esa página."
+
+#: templates/admin/premium.php:426
+msgid "Filter by page"
+msgstr "Filtrar por página"
+
+#: templates/admin/premium.php:416
+msgid "Thanks to the pre-set macros, you will be able to %1$shighly reduce answer time%2$s for those questions that other users have already posed.%3$sSelect the most appropriate macro and the message field will be automatically filled in and ready to be sent to users. Simple, practical and quick!"
+msgstr "Gracias a las macros pre-establecidas, podrás %1$sreducir altamente el tiempo de respuesta%2$s para aquellas preguntas que otros usuarios ya han hecho.%3$sSelecciona la macro más apropiada y el campo de mensaje será rellenado automáticamente y estará listo para enviar a los usuarios. ¡Simple, práctico y rápido!"
+
+#: templates/admin/premium.php:413
+msgid "Macros"
+msgstr "Macros"
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr "http://yithemes.com/"
+
+#. Description of the plugin/theme
+msgid "Pre-sales question ? Needs support ? Chat with your customers!"
+msgstr "¿Dudas? ¿Necesitas soporte? ¡Chatea con tus clientes!"
+
+#. Plugin URI of the plugin/theme
+msgid "http://yithemes.com/themes/plugins/yith-live-chat/"
+msgstr "http://yithemes.com/themes/plugins/yith-live-chat/"
+
+#: templates/chat-backend/chat-console.php:80
+msgid "Firebase offline or not available. Please wait..."
+msgstr "Firebase desconectada o no disponible. Por favor espera..."
+
+#: templates/admin/premium.php:397
+msgid "A chat available to users only when operators are ready to answer. Otherwise, the %1$scontact form%2$s to send messages will be removed from the page, and users won't be able to send any request."
+msgstr "Un chat disponible a los usuarios sólo cuando los operadores están preparados para responder. Si no, el %1$sformulario de contacto%2$s para enviar mensajes se eliminará de la página, y los usuarios no podrán enviar ninguna solicitud."
+
+#: templates/admin/premium.php:394
+msgid "CHAT AVAILABLE ONLY WHEN OPERATORS ARE ONLINE"
+msgstr "CHAT DISPONIBLE SÓLO CUANDO LOS OPERADORES ESTÁN EN LÍNEA"
+
+#: templates/admin/premium.php:384
+msgid "All features of %1$sYITH Live Chat%2$s and %1$sYITH WooCommerce Multi Vendor%2$s in one fell swoop, in order to activate the chat in the page of every vendor of the shop. In this way, your users will be free to contact immediately the vendors of the site to solve their doubts."
+msgstr "Todas las características de %1$sYITH Live Chat%2$s y %1$sYITH WooCommerce Multi Vendor%2$s juntas, para activar el chat en la página de cada vendedor de la tienda. En este sentido, tus usuarios podrán contactar inmediatamente a los vendedores del sitio para resolver sus dudas."
+
+#: templates/admin/premium.php:381
+msgid "COMPATIBILITY WITH MULTI VENDOR"
+msgstr "COMPATIBILIDAD CON MULTI VENDOR"
+
+#: templates/admin/premium.php:365
+msgid "Customise the profile of the Live Chat operator. Set priviledges that the chat operator user has once logged into the site and customise the default avatar."
+msgstr "Personaliza el perfil del operador de Live Chat. Establece privilegios que el usuario operador del chat tiene una vez ha iniciado sesión en el sitio y personalizado el avatar por defecto."
+
+#: templates/admin/premium.php:362
+msgid "CUSTOM AGENT PROFILE"
+msgstr "PERFIL DE AGENTE PERSONALIZADO"
+
+#: templates/admin/premium.php:352
+msgid "In an era in which web navigation is not limited to desktop surfing only, it is important that your site and all services in it are accessible from %1$sany device%2$s. YITH Live Chat Premium has been created to fit this need, so that anyone can use your chat, regardless of the device they are using."
+msgstr "En una era en la que la navegación web no está limitada sólo a las superficies de escritorio, es importante que tu sitio y que todos los servicios en él sean accesibles desde  %1$scualquier dispositivo%2$s. YITH Live Chat Premium ha sido creado para cumplir con esta necesidad, para que cualquiera pueda usar tu chat sin importar el servicio que estén usando."
+
+#: templates/admin/premium.php:349
+msgid "MOBILE READY"
+msgstr "ADAPTADO PARA MÓVILES"
+
+#: templates/admin/premium.php:333
+msgid "The premium version of the plugin allows you to monitor the duration of each chat conversation in real time and to recover total duration also in saved chats."
+msgstr "La versión premium del plugin te permite monitorizar la duración de cada conversación de chat en tiempo real y recuperar la duración total también en los chats guardados."
+
+#: templates/admin/premium.php:330
+msgid "CONVERSATION DURATION"
+msgstr "DURACIÓN DE LA CONVERSACIÓN"
+
+#: templates/admin/premium.php:320
+msgid "Make the colours of your chat console as fitted as possible to those of your theme, so that such an external service can be perfectly integrated with all that surrounds it. You'll find an %1$soption panel%2$s available for you to edit login form and chat window, size and position."
+msgstr "Haz que los colores de la consola del chat se ajusten lo más posible a los colores de tu tema, para que este servicio externo pueda ser perfectamente integrado con todo lo que le rodea. Encontrarás una opción en el %1$spanel de opciones%2$s disponible para que puedas editar el formulario de inicio de sesión, la ventana de chat, su tamaño y posición."
+
+#: templates/admin/premium.php:317
+msgid "CUSTOM INTERFACE"
+msgstr "INTERFAZ PERSONALIZADA"
+
+#: templates/admin/premium.php:301
+msgid "Make your users able to tell you if the chat and support services have satisfied them or not, once chat conversation has been closed. They will be able to send their %1$sfeedback%2$s with a simple click and give you, as admin, the possibility to monitor chat operators’ behaviour."
+msgstr "Haz que tus usuarios puedan decirte si los servicios de chat y soporte los han satisfecho o no, una vez que la conversación se ha cerrado. Podrán enviar su %1$sfeedback%2$s con un simple click y darte, como admin, la posibilidad de monitorizar el comportamiento de los operadores del chat."
+
+#: templates/admin/premium.php:298
+msgid "CHAT EVALUATION"
+msgstr "EVALUACIÓN DEL CHAT"
+
+#: templates/admin/premium.php:288
+msgid " At the end of the chat session, logged users in your site can ask for a %1$scopy of the chat conversation%2$s. Customise the content of the email in which the chat copy is sent and set possible email addresses to which this has to be forwarded in case you wanted, for instance, to supervise your operators’ behaviour."
+msgstr "Añ final de la sesión del chat, los usuarios regustrados en tu sitio pueden pedir una %1$scopia del a conversación del chat%2$s. Personalizar el contenido del email en el que se envía la copia del chat y establecer las posibles direcciones de email a las que se envía en caso de que quieras, por ejemplo, supervisar el comportamiento de tus operadores de chat."
+
+#: templates/admin/premium.php:285
+msgid "CONVERSATION COPY"
+msgstr "COPIA DE LA CONVERSACIÓN"
+
+#: templates/admin/premium.php:269
+msgid "Do not limit your conversations to two at the same time only. The premium version of the plugin gives you the possibility to choose the %1$smaximum number of users holding a chat conversation at the same time%2$s, so that you decide how much care you want to devote to each of the users contacting you."
+msgstr "No limites tus conversaciones a sólo dos a la vez. La versión premium del plugin te da la posibilidad de elegir el %1$snúmero máximo de usuarios en chat a la vez%2$s, para que puedas decidir cuánto te importa dedicarle a cada uno de los usuarios que contactan contigo."
+
+#: templates/admin/premium.php:266
+msgid "MAXIMUM NUMBER OF SIMULTANEOUS CONVERSATIONS"
+msgstr "NÚMERO MÁXIMO DE CONVERSACIONES SIMULTÁNEAS"
+
+#: templates/admin/premium.php:256
+msgid "Because of the maximum number of allowed conversations, set from the plugin option panel, it may be possible that users can't start a conversation because all operators are busy. Give them the freedom to send you an %1$soffline message%2$s in any case, activating the related option from the Offline Messages section."
+msgstr "Debido al número máximo de conversaciones permitidas, establecidas desde el panel de opciones del plugin, podría ser posible que algunos usuarios no puedan empezar una conversación porque todos los operadores están ocupados. Dales la posibilidad de enviarte un %1$smensaje offline%2$s en cualquier caso, activando la opción desde la sección de Mensajes Offline Messages."
+
+#: templates/admin/premium.php:253
+msgid "OFFLINE MESSAGES WHEN ALL OPERATORS ARE BUSY"
+msgstr "MENSAJES OFFLINE CUANDO TODOS LOS OPERADORES ESTÁN OCUPADOS"
+
+#: templates/admin/premium.php:236
+msgid "Put your instant chat service is not active 24 hours a day, but you would like your users to be able to contact you anyway, even though the chat console is \"closed2. You can: %1$saccess section \"offline  messages\" to read all messages sent to you%2$s, set an email address to which offline messages are sent and customise content of the replying email sent to users."
+msgstr "Puede que tu servicio de chat instantáneo no esté activo las 24 horas, pero te gustaría que tus usuarios pudieran contactarte de todas formas, incluso aunque la consola del chat esté \"cerrada\". Puedes: %1$sacceder a la sección \"mensajes offline\" para leer todos los mensajes que te han enviado%2$s, establecer una dirección de email a la cual llegan los mensajes offline y personalizar el contenido para el email de respuesta enviado a los usuarios."
+
+#: templates/admin/premium.php:233
+msgid "OFFLINE MESSAGES"
+msgstr "MENSAJES OFFLINE"
+
+#: templates/admin/premium.php:223
+msgid "Just a click on %1$s\"Save Chat\"%2$s button and your chat will be saved into your \"Chat logs\". In this section you can find all conversations and also summary information about them, from IP address associated to the date, to the appreciation degree expressed by the user, to the chat duration."
+msgstr "Sólo un click en el botón %1$s\"Guardar Chat\"%2$s y tu chat será guardado en tus \"Registros de chat\". En esta sección puedes encontrar todas las conversaciones y también información de resumen sobre ellos, desde la dirección IP asociada a la fecha, el grado de satisfacción expresado por el usuario, hasta la duración del chat."
+
+#: templates/admin/premium.php:220
+msgid "CHAT LOGS"
+msgstr "REGISTROS DE CHAT"
+
+#: templates/admin/premium.php:206 templates/admin/premium.php:445
+msgid "to the premium version"
+msgstr "a la versión premium"
+
+#: templates/admin/premium.php:205 templates/admin/premium.php:444
+msgid "UPGRADE"
+msgstr "ACTUALIZAR"
+
+#: templates/admin/premium.php:202 templates/admin/premium.php:441
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH Live Chat%2$s to benefit from all features!"
+msgstr "¡Actualiza a la %1$sversión premium%2$s de %1$sYITH Live Chat%2$s para beneficiarte de todas las características!"
+
+#: plugin-options/video-box.php:28
+msgid "By purchasing the premium version of the plugin, you will take advantage of the advanced features of the product, and you will get one year of free updates and support through our platform available 24h/24."
+msgstr "Comprando la versión premium del plugin, tendrás la ventaja de las características avanzadas del producto, y tendrás un año de actualizaciones gratuitas y soporte a través de nuestra plataforma 24h/24."
+
+#: plugin-options/video-box.php:27
+msgid "Get Support and Pro Features"
+msgstr "Consigue Características y Soporte Pro"
+
+#: plugin-options/video-box.php:21
+msgid "Upgrade to the PREMIUM VERSION of YITH Live Chat to benefit from all the features!"
+msgstr "¡Actualiza a la VERSIÓN PREMIUM del YITH Live Chat para beneficiarte de todas las características!"
+
+#: plugin-options/video-box.php:20
+msgid "Discover the Advanced Features"
+msgstr "Descubre las Características Avanzadas"
+
+#: plugin-options/video-box.php:16
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Actualiza a la VERSIÓN PREMIUM"
+
+#: plugin-options/texts-options.php:91
+msgid "This text will appear if all operators are busy"
+msgstr "Este mensaje aparecerá si todos los operadores están ocupados"
+
+#: plugin-options/texts-options.php:90
+msgid "Busy Message"
+msgstr "Mensaje de Ocupado"
+
+#: plugin-options/texts-options.php:80
+msgid "This text will appear if no operator is online"
+msgstr "Este mensaje aparecerá si no hay ningún operador en línea"
+
+#: plugin-options/texts-options.php:79
+msgid "Offline Message"
+msgstr "Mensaje Offline"
+
+#: plugin-options/texts-options.php:69
+msgid "This text will appear at the end of the chat"
+msgstr "Este texto aparecerá al final del chat"
+
+#: plugin-options/texts-options.php:68
+msgid "Closing Chat Message"
+msgstr "Al cerrar el Mensaje de Chat"
+
+#: plugin-options/texts-options.php:58
+msgid "This text will appear when the chat starts"
+msgstr "Este texto aparecerá cuando el chat comience"
+
+#: plugin-options/texts-options.php:57
+msgid "Starting Chat Message"
+msgstr "Mensaje de Inicio de Chat"
+
+#: plugin-options/texts-options.php:47
+msgid "This text will appear in the login form"
+msgstr "Este texto aparecerá en el formulario para iniciar sesión"
+
+#: plugin-options/texts-options.php:46
+msgid "Welcome Message"
+msgstr "Mensaje de Bienvenida"
+
+#: plugin-options/texts-options.php:36
+msgid "This text will appear in the chat button and the chat title"
+msgstr "Este texto aparecerá en el botón de chat y en el título del chat"
+
+#: plugin-options/texts-options.php:35
+msgid "Chat Title"
+msgstr "Título del chat"
+
+#: plugin-options/texts-options.php:23
+msgid "YITH Live Chat: Message Settings"
+msgstr "YITH Live Chat: Ajustes de Mensajes"
+
+#: plugin-options/general-options.php:79
+msgid "It can be found under the \"Secrets\" menu in your Firebase app dashboard"
+msgstr "Puedes encontrarlo bajo el menú \"Secrets\" en el tablero de tu Firebase app"
+
+#: plugin-options/general-options.php:78
+msgid "Firebase App Secret"
+msgstr "Firebase App Secret"
+
+#: plugin-options/general-options.php:68
+msgid "URL of your Firebase application. If you don't have one, get a free Firebase application here: "
+msgstr "URL de tu aplicación Firebase. Si no tienes una, puedes conseguir una aplicación Firebase gratuita aquí:"
+
+#: plugin-options/general-options.php:67
+msgid "Firebase App URL"
+msgstr "Firebase App URL"
+
+#: plugin-options/general-options.php:61
+msgid "Activate/Deactivate the live chat features. "
+msgstr "Activar/Desactivar las características del live chat."
+
+#: plugin-options/general-options.php:60
+msgid "Enable Live Chat"
+msgstr "Habilitar Live Chat"
+
+#: plugin-options/general-options.php:48
+msgid "YITH Live Chat: General Settings"
+msgstr "YITH Live Chat: Ajustes Generales"
+
+#: plugin-options/general-options.php:37
+msgid "Select the pages where you want to show the chat popup"
+msgstr "Seleccionar las páginas donde quieres que se vea el popup del chat"
+
+#: plugin-options/general-options.php:36
+msgid "Pages selection"
+msgstr "Selección de páginas"
+
+#: plugin-options/general-options.php:29
+msgid "Show the chat popup in all pages"
+msgstr "Mostrar popup del chat en todas las páginas"
+
+#: plugin-options/general-options.php:28
+msgid "Show popup in all pages"
+msgstr "Mostrar popup en todas las páginas"
+
+#: plugin-options/general-options.php:21
+msgid "Show the chat popup only in vendors' pages and hide it in entire shop pages (You must have enabled the premium version of YITH WooCommerce Multi Vendor)"
+msgstr "Mostrar el popup de chat sólo en las páginas de vendedores y ocultarlo en páginas de tiendas enteras (Debes tener habilitada la versión premium de YITH WooCommerce Multi Vendor)"
+
+#: plugin-options/general-options.php:20
+msgid "Show popup only in vendors' pages"
+msgstr "Mostrar popup sólo en páginas de vendedores"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+msgid "Reset Defaults"
+msgstr "Ajustes predeterminados"
+
+#: plugin-fw/templates/fields/upload.php:19
+msgid "Reset"
+msgstr "Reinicia"
+
+#: plugin-fw/templates/fields/sidebars.php:52
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Choose a sidebar"
+msgstr "Elige una barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:25
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:28
+#: plugin-fw/templates/fields/sidebars.php:31
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:22
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete"
+msgstr "Borrar"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Añadir imágenes"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add to gallery"
+msgstr "Añadir a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add Images to Gallery"
+msgstr "Añadir imágenes a la Galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete image"
+msgstr "Borrar imagen"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:93
+msgid "(Default: <i %s></i> )"
+msgstr "(Por defecto: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:91
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Por defecto: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/fields/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr "¿Quieres borrar la etiqueta personalizada?"
+
+#: plugin-fw/templates/fields/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Añadir etiqueta de producto personalizado"
+
+#: plugin-fw/templates/fields/customtabs.php:53
+#: plugin-fw/templates/fields/customtabs.php:95
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenido de la pestaña. (HTML se soporta)"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#: plugin-fw/templates/fields/customtabs.php:94
+msgid "Value"
+msgstr "Valor"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Expand all"
+msgstr "Expandir todos"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Close all"
+msgstr "Cerrar todos"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:77
+msgid "Image preview"
+msgstr "Previsualización de imagen"
+
+#: plugin-fw/templates/fields/upload.php:18
+#: plugin-fw/templates/metaboxes/types/icon-list.php:71
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Actualiza"
+
+#: plugin-fw/templates/fields/customtabs.php:37
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Remove"
+msgstr "Borrar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "Renovar licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "Comprar de nuevo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "Caducado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "Bloqueado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "Renovado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "%1s de %2s"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "Acciones de Licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "Queda"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "Caduca"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+msgid "Product Name"
+msgstr "Nombre de Producto"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "Activado/a"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "Activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "Producto que activar"
+msgstr[1] "Productos que activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "Actualizar la información de la licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "¿Has actualizado tus licencias? ¿Has pedido una extensión? Actualiza"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Licencia de Activación Yithemes"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"Si has comprado uno de nuestros productos antes del 27 de enero de 2015, puedes beneficiarte del soporte y actualizaciones (los servicios incluidos con la licencia)\n"
+"                    hasta el 27 de enero de 2016 y no tendrás que comprarla otra vez para conseguir una nueva clave de licencia, porque, antes de esta fecha, tu licencia se activaba automáticamente por nuestro sistema.\n"
+"                    Después del 27 de enero de 2016, sin embargo, si quieres beneficiarte de nuestro soporte y actualizaciones, tienes que comprar una nueva licencia y activarla a través de la clave de licencia que \n"
+"                    se te proporcionará y que podrás encontrar en tu cuenta YIThemes, en la sección \"My licenses\"."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "No puedo encontrar la clave de licencia para activar el tema que compré hace tiempo. ¿Dónde la puedo encontrar?"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "Activación de la Licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:688
+msgid "License key deactivated for website"
+msgstr "Clave de licencia desactivada para nuestro sitio web"
+
+#: plugin-fw/licence/lib/yit-licence.php:687
+msgid "License successfully activated"
+msgstr "Licencia activada con éxito"
+
+#: plugin-fw/licence/lib/yit-licence.php:687
+msgid "Great"
+msgstr "Excelente"
+
+#: plugin-fw/licence/lib/yit-licence.php:685
+msgid "License key has been banned"
+msgstr "La clave de licencia ha sido bloqueada"
+
+#: plugin-fw/licence/lib/yit-licence.php:684
+msgid "License key has expired"
+msgstr "La clave de licencia ha caducado"
+
+#: plugin-fw/licence/lib/yit-licence.php:683
+msgid "Invalid security key"
+msgstr "Clave de seguridad inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:682
+msgid "Invalid instance ID"
+msgstr "Instancia ID inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:681
+msgid "Maximum number of activations exceeded"
+msgstr "Se ha excedido el número máximo de solicitudes"
+
+#: plugin-fw/licence/lib/yit-licence.php:680
+msgid "Software has been deactivated"
+msgstr "El software ha sido desactivado"
+
+#: plugin-fw/licence/lib/yit-licence.php:679
+msgid "Invalid license key"
+msgstr "Clave de solicitud inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "Invalid Request"
+msgstr "Solicitud inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:192
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "¿Estás seguro/a de que quieres desactivar la licencia para el sitio web actual?"
+
+#: plugin-fw/licence/lib/yit-licence.php:191
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "Clave de Licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:190
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+msgid "Email"
+msgstr "Email"
+
+#: plugin-fw/licence/lib/yit-licence.php:189
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "No fue posible contactar con el servidor remoto, por favor, inténtalo de nuevo más tarde. ¡Gracias!"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "%s and %s fields cannot be empty"
+msgstr "Los campos %s y %s no pueden estar vacíos"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "%s el campo no puede estar vacío"
+
+#: plugin-fw/lib/yit-upgrade.php:544
+msgid "Update Plugin"
+msgstr "Actualizar Plugin"
+
+#: plugin-fw/lib/yit-upgrade.php:537
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "No tienes suficientes permisos para actualizar los plugins para este sitio web."
+
+#: plugin-fw/lib/yit-upgrade.php:533
+msgid "You can't update the plugins for this site."
+msgstr "No puedes actualizar los plugins para este sitio web."
+
+#: plugin-fw/lib/yit-upgrade.php:458
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "Hay disponible una nueva versión de %1$s. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver detalles de la versión %4$s</a> o <a href=\"%5$s\">actualizar ahora</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:456
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "Hay disponible una nueva versión de %1$s. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver detalles de la versión %4$s</a>. <em>Las actualizaciones automáticas no están disponibles para este plugin, por favor <a href=\"%5$s\" title=\"License activation\">activa</a> tu copia de %6s.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:454
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "Hay una nueva versión disponible de %1$s. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver detalles de la versión %4$s</a>. <em>Tienes que activar el plugin en un único sitio de la red para beneficiarte de las actualizaciones automáticas.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:452
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "Hay una nueva versión disponible de %1$s. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver detalles de la versión %4$s</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:292
+msgid "Could not create Temporary file."
+msgstr "No se pudo crear un archivo temporal."
+
+#: plugin-fw/lib/yit-upgrade.php:279
+msgid "Invalid URL Provided."
+msgstr "La URL proporcionada no es válida."
+
+#: plugin-fw/lib/yit-upgrade.php:245
+msgid "YIThemes Repository"
+msgstr "Repositorio YIThemes"
+
+#: plugin-fw/lib/yit-upgrade.php:142
+msgid "Update now."
+msgstr "Actualiza ahora."
+
+#: plugin-fw/lib/yit-upgrade.php:141
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "por favor, <a href=\"%activate_link%\">activa</a> tu copia de %plugin_name%."
+
+#: plugin-fw/lib/yit-upgrade.php:140
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "Las actualizaciones automáticas no están disponibles para este plugin,"
+
+#: plugin-fw/lib/yit-upgrade.php:139
+msgid "View version %latest% details."
+msgstr "Ver detalles de la %latest% versión"
+
+#: plugin-fw/lib/yit-upgrade.php:138
+msgid "There is a new version of %plugin_name% available."
+msgstr "Hay una nueva versión de %plugin_name% disponible."
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"A partir de ahora, puedes encontrar el panel de opciones de los plugins YITH en el menú YITH Plugin.\n"
+"                                    Cada vez que se añade uno de nuestros plugins, uno de nuestros plugins se añade, una nueva entrada se añadirá a este menú.\n"
+"                                    Por ejemplo, después de la actualización, las opciones de los plugins (como para YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    se moverán de su ubicación anterior a la pestaña YITH Plugins."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Plugins Actualizados"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "y"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Descubre todos nuestros plugins disponibles en:"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"A partir de ahora, puedes encontrar todas las opciones de los plugins YITH en el menú YITH Plugins.\n"
+"                                     Los ajustes de personalización de los Plugins estarán disponibles como una nueva entrada en el menú YITH Plugins."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Plugins Activados"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:149
+msgid "If you continue with this action, you will reset all the options in this page."
+msgstr "Si continúas con esta acción, reiniciarás todas las opciones de esta página."
+
+#: plugin-fw/lib/yit-plugin-panel.php:527
+msgid "Sorting successful."
+msgstr "Clasificación fue realizada con éxito."
+
+#: plugin-fw/lib/yit-plugin-panel.php:526
+msgid "Sorry, import is disabled."
+msgstr "Lo sentimos, la importación está deshabilitada."
+
+#: plugin-fw/lib/yit-plugin-panel.php:525
+msgid "The added file is not valid."
+msgstr "El archivo añadido no es válido."
+
+#: plugin-fw/lib/yit-plugin-panel.php:524
+msgid "An error has occurred during import. Please try again."
+msgstr "Ha ocurrido un error durante la importación. Por favor, inténtalo de nuevo."
+
+#: plugin-fw/lib/yit-plugin-panel.php:523
+msgid "Database imported correctly."
+msgstr "Base de datos importada correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:521
+#: plugin-fw/lib/yit-plugin-panel.php:522
+msgid "Element updated correctly."
+msgstr "Elemento actualizado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:520
+msgid "Element deleted correctly."
+msgstr "Elemento borrado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:519
+msgid "Settings reset"
+msgstr "Ajustes reiniciados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:518
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:517
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "El elemento que has introducido ya existe. Por favor, introduce otro nombre."
+
+#: plugin-fw/lib/yit-plugin-panel.php:383
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Are you sure?"
+msgstr "¿Estás seguro/a?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:382
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+msgid "Reset to default"
+msgstr "Reiniciar a predeterminado"
+
+#: plugin-fw/lib/yit-plugin-panel.php:380
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si sigues con esta acción, se reiniciarán todas las opciones en esta página."
+
+#: plugin-fw/lib/yit-plugin-panel.php:377
+#: plugin-fw/lib/yit-plugin-subpanel.php:146
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:11
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: plugin-fw/lib/yit-plugin-panel.php:72
+msgid "Plugin Settings"
+msgstr "Ajustes del plugin"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:383
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Los cambios que has hecho se perderán si sales de esta página."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "Cargar archivos múltiples"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "Añadir %s desde imágenes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/fields/customtabs.php:46
+#: plugin-fw/templates/fields/customtabs.php:89
+msgid "Name"
+msgstr "Nombre"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Mostrar parte delantera de %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "Ajustes de diseño"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "Diseño para cada página de este portafolio"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Diseño Simple"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Establecer nombre único para cada página URL de categoría."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Taxonomía de reescritura"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Si quieres usar categorías en el portafolio, establece un nombre para la taxonomía. El nombre debería ser un slug (no debe contener mayúsculas ni espacios) y no debe ser más largo de 32 caracteres (restricción de estructura de base de datos)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Establecer una etiqueta en plural (título del portafolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "Etiqueta en Plural"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Establecer una etiqueta en singular (título del portafolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "Etiqueta en singular"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Nombre de identificación único en la URL para cada producto (slug desde la entrada si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Reescribir"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Diseño para este %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Tipos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s Ajustes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "Nuevo nombre de categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Actualizar Categoría:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Editar Categoría:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Categoría Madre:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Categoría Madre"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+#: plugin-fw/templates/fields/ajax-terms.php:57
+msgid "Search Categories"
+msgstr "Buscar Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "No se encontraron %s en la Papelera"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "No se encontraron %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "Ver %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "Todo %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "Nuevo/a %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Añadir nuevo/a %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "Añadir %s"
+
+#: init.php:23
+msgid "You can't activate the free version of YITH Live Chat while you are using the premium one."
+msgstr "No puedes activar la versión free de YITH Live Chat mientras estás usando la premium."
+
+#: includes/functions-ylc-ajax.php:104
+msgid "Successfully closed!"
+msgstr "¡Cerrado con éxito!"
+
+#: class.yith-livechat.php:850
+msgid "Plugin Documentation"
+msgstr "Documentación del Plugin"
+
+#: class.yith-livechat.php:820 plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:73
+msgid "Settings"
+msgstr "Ajustes"
+
+#: class.yith-livechat.php:626
+msgid "YITH Live Chat Operator"
+msgstr "Operador de YITH Live Chat"
+
+#: class.yith-livechat.php:549
+msgid "Please enter Firebase App URL and Firebase App Secret for YITH Live Chat"
+msgstr "Por favor, introduce una Firebase App URL y una Firebase App Secret para YITH Live Chat"
+
+#. #-#-#-#-#  yith-live-chat-code.pot (YITH Live Chat 1.2.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class.yith-livechat.php:509 plugin-options/video-box.php:19
+#: plugin-options/video-box.php:25
+msgid "YITH Live Chat"
+msgstr "YITH Live Chat"
+
+#: class.yith-livechat.php:485 class.yith-livechat.php:486
+msgid "Live Chat"
+msgstr "Live Chat"
+
+#: class.yith-livechat.php:479 class.yith-livechat.php:823
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: class.yith-livechat.php:477 templates/chat-backend/chat-console.php:5
+msgid "Users"
+msgstr "Usuarios"
+
+#: class.yith-livechat.php:475
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: class.yith-livechat.php:474
+msgid "Conversation"
+msgstr "Conversación"
+
+#: class.yith-livechat.php:473
+msgid "Offline Messages"
+msgstr "Mensajes Offline"
+
+#: class.yith-livechat.php:469
+msgid "Messages"
+msgstr "Mensajes"
+
+#: class.yith-livechat.php:468
+msgid "General"
+msgstr "General"
+
+#: class.yith-livechat.php:435
+msgid "Our operators are busy. Please try again later"
+msgstr "Nuestros operadores están ocupados. Por favor, inténtalo de nuevo más tarde."
+
+#: class.yith-livechat.php:434
+msgid "None of our operators are available at the moment. Please, try again later."
+msgstr "Ninguno de nuestros operadores está disponible en este momento. Por favor, inténtalo de nuevo más tarde."
+
+#: class.yith-livechat.php:433
+msgid "This chat session has ended"
+msgstr "La sesión de chat ha terminado"
+
+#: class.yith-livechat.php:432
+msgid "Questions, doubts, issues? We're here to help you!"
+msgstr "¿Preguntas, dudas, problemas? ¡Estamos aquí para ayudarte!"
+
+#: class.yith-livechat.php:431
+msgid "Have you got question? Write to us!"
+msgstr "¿Tienes una pregunta? ¡Escríbenos!"
+
+#: class.yith-livechat.php:430
+msgid "Chat with us"
+msgstr "Chatea con nosotros"
+
+#: class.yith-livechat.php:338
+msgid "No results match"
+msgstr "No coincidió ningún resultado"
+
+#: class.yith-livechat.php:337
+msgid "Apply Macro"
+msgstr "Aplicar macro"
+
+#: class.yith-livechat.php:336
+msgid "%s shop"
+msgstr "%s shop"
+
+#: class.yith-livechat.php:351
+msgid "A user is already logged in with the same email address"
+msgstr "Un usuario ya ha iniciado sesión con la misma dirección de email"
+
+#: class.yith-livechat.php:335
+msgid "Talking with %s"
+msgstr "Hablando con %s"
+
+#: class.yith-livechat.php:334
+msgid "There are people waiting to talk"
+msgstr "Hay gente esperando para hablar"
+
+#: class.yith-livechat.php:334
+msgid "User queue: %d"
+msgstr "Cola de usuario: %d"
+
+#: class.yith-livechat.php:333
+msgid "Saving"
+msgstr "Guardando"
+
+#: class.yith-livechat.php:332
+msgid "New User Online"
+msgstr "Nuevo Usuario Online"
+
+#: class.yith-livechat.php:331
+msgid "New Message"
+msgstr "Nuevo Mensaje"
+
+#: class.yith-livechat.php:330
+msgid "If you leave the chat, you will be logged out. However you will be able to save the conversations into your server when you will come back in the console!"
+msgstr "Si dejas el chat, se cerrará la sesión. Sin embargo, ¡podrás guardar las conversaciones en tu servidor cuando vuelvas a la consola!"
+
+#: class.yith-livechat.php:329
+msgid "You are offline"
+msgstr "Estás desconectado"
+
+#: class.yith-livechat.php:328
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: class.yith-livechat.php:327
+msgid "Connect"
+msgstr "Conectar"
+
+#: templates/chat-backend/chat-console.php:69
+msgid "Current Page"
+msgstr "Página Actual"
+
+#: templates/chat-backend/chat-console.php:60
+msgid "IP Address"
+msgstr "Dirección IP"
+
+#: templates/chat-backend/chat-console.php:64
+msgid "User Email"
+msgstr "Email de usuario"
+
+#: templates/chat-backend/chat-console.php:56
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: class.yith-livechat.php:349
+msgid "Username is invalid"
+msgstr "El nombre de usuario es inválido"
+
+#: class.yith-livechat.php:350
+msgid "Email is invalid"
+msgstr "El email es inválido"
+
+#: class.yith-livechat.php:348
+msgid "Please fill out all required fields"
+msgstr "Por favor rellena todos los campos"
+
+#: class.yith-livechat.php:326
+msgid "Offline"
+msgstr "Offline"
+
+#: class.yith-livechat.php:325
+msgid "Online"
+msgstr "Online"
+
+#: class.yith-livechat.php:324
+msgid "Connection error!"
+msgstr "¡Error de conexión!"
+
+#: templates/chat-backend/chat-console.php:49
+#: templates/chat-frontend/chat-container.php:31
+msgid "End chat"
+msgstr "Terminar chat"
+
+#: class.yith-livechat.php:323 templates/chat-backend/chat-console.php:7
+#: templates/chat-backend/chat-console.php:13
+#: templates/chat-backend/chat-console.php:23
+msgid "Please wait"
+msgstr "Por favor espera"
+
+#: class.yith-livechat.php:322 class.yith-livechat.php:346
+msgid "%s is writing"
+msgstr "%s está escribiendo"
+
+#: class.yith-livechat.php:321 class.yith-livechat.php:345
+#: templates/chat-frontend/chat-container.php:44
+msgid "Connecting"
+msgstr "Conectando"
+
+#: class.yith-livechat.php:347
+msgid "Sending"
+msgstr "Enviando"
+
+#: class.yith-livechat.php:320
+msgid "No messages found"
+msgstr "No se ha encontrado ningún mensaje"
+
+#: class.yith-livechat.php:344
+msgid "No operators online"
+msgstr "No hay ningún operador en línea"
+
+#: templates/chat-backend/chat-console.php:35
+#: templates/chat-frontend/chat-container.php:37
+msgid "Type here and hit enter to chat"
+msgstr "Escribe aquí y pulsa enter para chatear"
+
+#: class.yith-livechat.php:343
+msgid "The user has closed the conversation"
+msgstr "El usuario ha cerrado la conversación"
+
+#: templates/chat-frontend/chat-container.php:84
+msgid "Start Chat"
+msgstr "Empieza a chatear"
+
+#: templates/chat-frontend/chat-container.php:78
+msgid "Please enter your email"
+msgstr "Por favor introduce tu email"
+
+#: templates/chat-frontend/chat-container.php:75
+msgid "Your Email"
+msgstr "Tu email"
+
+#: templates/chat-frontend/chat-container.php:71
+msgid "Please enter your name"
+msgstr "Por favor introduce tu nombre"
+
+#: templates/chat-frontend/chat-container.php:68
+msgid "Your Name"
+msgstr "Tu Nombre"
+
+#: class.yith-livechat.php:397
+msgid "%d years"
+msgstr "%d años"
+
+#: class.yith-livechat.php:396
+msgid "about a year"
+msgstr "aproximadamente un año"
+
+#: class.yith-livechat.php:395
+msgid "%d months"
+msgstr "%d meses"
+
+#: class.yith-livechat.php:394
+msgid "about a month"
+msgstr "aproximadamente un mes"
+
+#: class.yith-livechat.php:393
+msgid "%d days"
+msgstr "%d días"
+
+#: class.yith-livechat.php:392
+msgid "a day"
+msgstr "un día"
+
+#: class.yith-livechat.php:391
+msgid "about %d hours"
+msgstr "aproximadamente %d horas"
+
+#: class.yith-livechat.php:390
+msgid "about an hour"
+msgstr "aproximadamente una hora"
+
+#: class.yith-livechat.php:389
+msgid "%d minutes"
+msgstr "%d minutos"
+
+#: class.yith-livechat.php:388
+msgid "about a minute"
+msgstr "aproximadamente un minuto"
+
+#: class.yith-livechat.php:387
+msgid "less than a minute"
+msgstr "menos de un minuto"
+
+#: class.yith-livechat.php:386
+msgid "ago"
+msgstr "Hace"
+
+#: class.yith-livechat.php:383
+msgid "Dec"
+msgstr "Dic"
+
+#: class.yith-livechat.php:382
+msgid "Nov"
+msgstr "Nov"
+
+#: class.yith-livechat.php:381
+msgid "Oct"
+msgstr "Oct"
+
+#: class.yith-livechat.php:380
+msgid "Sep"
+msgstr "Sep"
+
+#: class.yith-livechat.php:379
+msgid "Aug"
+msgstr "Ago"
+
+#: class.yith-livechat.php:378
+msgid "Jul"
+msgstr "Jul"
+
+#: class.yith-livechat.php:377
+msgid "Jun"
+msgstr "Jun"
+
+#: class.yith-livechat.php:375
+msgid "Apr"
+msgstr "Abr"
+
+#: class.yith-livechat.php:374
+msgid "Mar"
+msgstr "Mar"
+
+#: class.yith-livechat.php:373
+msgid "Feb"
+msgstr "Feb"
+
+#: class.yith-livechat.php:372
+msgid "Jan"
+msgstr "Ene"
+
+#: class.yith-livechat.php:369
+msgid "December"
+msgstr "Diciembre"
+
+#: class.yith-livechat.php:368
+msgid "November"
+msgstr "Noviembre"
+
+#: class.yith-livechat.php:367
+msgid "October"
+msgstr "Octubre"
+
+#: class.yith-livechat.php:366
+msgid "September"
+msgstr "Septiembre"
+
+#: class.yith-livechat.php:365
+msgid "August"
+msgstr "Agosto"
+
+#: class.yith-livechat.php:364
+msgid "July"
+msgstr "Julio"
+
+#: class.yith-livechat.php:363
+msgid "June"
+msgstr "Junio"
+
+#: class.yith-livechat.php:362 class.yith-livechat.php:376
+msgid "May"
+msgstr "Mayo"
+
+#: class.yith-livechat.php:361
+msgid "April"
+msgstr "Abril"
+
+#: class.yith-livechat.php:360
+msgid "March"
+msgstr "Marzo"
+
+#: class.yith-livechat.php:359
+msgid "February"
+msgstr "Febrero"
+
+#: class.yith-livechat.php:358
+msgid "January"
+msgstr "Enero"

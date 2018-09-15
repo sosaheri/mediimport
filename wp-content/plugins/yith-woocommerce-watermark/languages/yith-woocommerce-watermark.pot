@@ -1,0 +1,329 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Watermark\n"
+"POT-Creation-Date: 2017-05-31 16:42+0200\n"
+"PO-Revision-Date: 2016-03-16 17:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:160
+#: ../includes/classes/class.yith-woocommerce-watermark.php:245
+msgid "Settings"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:162
+msgid "Premium live demo"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:162
+msgid "Live demo"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:167
+#: ../includes/classes/class.yith-woocommerce-watermark.php:246
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:194
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:252
+#: ../includes/classes/class.yith-woocommerce-watermark.php:253
+msgid "Watermark"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:311
+msgid "The watermark has been applied to"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:312
+msgid "Product"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:313
+msgid "on"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:314
+msgid "Products"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:315
+msgid "Completed"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:316
+msgid "You can't use images bigger than"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:319
+msgid "of the size of the \"Single Product image\", that is"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:322
+msgid "Attach id "
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:323
+msgid "Images will be restored, are you sure? "
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:324
+msgid "Image has been deleted"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:325
+msgid "Images have been deleted"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:326
+msgid "Image has not been deleted"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:327
+msgid "Images have not been deleted"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:330
+msgid "Shop Single"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:331
+msgid "Shop Thumbnail"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:332
+msgid "Shop Catalog"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:333
+msgid "Full Size"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:550
+msgid "Watermark Created"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:551
+msgid "Empty Path"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:552
+msgid "Error when saving resize image"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:553
+msgid "Can't load the image editor"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:554
+msgid "Error when creating watermark"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:555
+msgid "Image size doesn't exist"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:894
+msgid "From version 1.0.7 all your product backed up images are available at"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:907
+msgid "Backup completed!"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:948
+#: ../templates/admin/apply-single-watermark.php:4
+#: ../templates/admin/watermark-select.php:56
+#: ../templates/admin/watermark-select.php:65
+msgid "Apply Watermark"
+msgstr ""
+
+#: ../init.php:44
+msgid ""
+"YITH WooCommerce Watermark is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:53
+msgid ""
+"You can't activate the free version of YITH WooCommerce Watermark while you "
+"are using the premium one."
+msgstr ""
+
+#: ../plugin-options/general-settings-options.php:11
+msgid "General Settings"
+msgstr ""
+
+#: ../templates/admin/custom-button.php:15
+msgid "Generate a complete backup"
+msgstr ""
+
+#: ../templates/admin/custom-button.php:17
+msgid "Backup"
+msgstr ""
+
+#: ../templates/admin/premium.php:226 ../templates/admin/premium.php:336
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Watermark%2$s to "
+"benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:229 ../templates/admin/premium.php:339
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:230 ../templates/admin/premium.php:340
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:236
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:244
+msgid "Watermark from image"
+msgstr ""
+
+#: ../templates/admin/premium.php:247
+#, php-format
+msgid ""
+"Watermarks got from images are the %1$sbest solutions%2$s for whoever is "
+"able to create images compatible with products' ones, in order to protect "
+"them from unwanted usage or unauthorized modification."
+msgstr ""
+
+#: ../templates/admin/premium.php:257
+msgid "Watermark from text"
+msgstr ""
+
+#: ../templates/admin/premium.php:260
+#, php-format
+msgid ""
+"Not just images, %1$swatermark are taken also from text!%2$s Choose the "
+"words you want, the style and size. Six smart fonts, tailored for any kind "
+"of purpose.  Create the watermark that most suits your needs, and it will be "
+"harder to see your images used by anyone on the web!"
+msgstr ""
+
+#: ../templates/admin/premium.php:276
+msgid "Multiple watermark"
+msgstr ""
+
+#: ../templates/admin/premium.php:279
+#, php-format
+msgid ""
+"The creation of more watermarks is too interesting to ignore it! With the "
+"premium version of the plugin, you won't be obliged to apply just one "
+"watermark to your products: %1$sno limits in creation%2$s, and the freedom "
+"to make one or more for any product."
+msgstr ""
+
+#: ../templates/admin/premium.php:289
+msgid "One for each image"
+msgstr ""
+
+#: ../templates/admin/premium.php:292
+#, php-format
+msgid ""
+"Take advantage of the power of the plugin, adding %1$sdifferent watermarks"
+"%2$s depending on the final image on which they will be applied. A single "
+"image could not suit to all formats, but this won't be a problem any longer!"
+msgstr ""
+
+#: ../templates/admin/premium.php:308
+msgid "Product categories"
+msgstr ""
+
+#: ../templates/admin/premium.php:311
+#, php-format
+msgid ""
+"If you have organized your products in categories, maybe you want to use the "
+"same logic to your watermarks, applying different watermarks following the "
+"categories of your products. %1$sIn few clicks you could achieve the result "
+"you want.%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:321
+msgid "Position"
+msgstr ""
+
+#: ../templates/admin/premium.php:324
+#, php-format
+msgid ""
+"The watermark will no longer have only one position. %1$sYou will be free to "
+"choose where to place it%2$s, and thank to the available preview in the same "
+"page, you can choose the exact place without any problem."
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:24
+msgid "Select Watermark"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:28
+msgid "Watermark Image"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:36
+msgid "Maximum size allowed:"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:36
+msgid "Width:"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:36
+msgid "Height:"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:44
+msgid "Remove Watermark"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:58
+msgid "This procedure will apply the watermark to"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:58
+msgid "images at a time"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:66
+msgid ""
+"All \"Shop Single\" images of your products will be regenerated. (Save "
+"Changes before apply watermark)"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:70
+#: ../templates/admin/watermark-select.php:72
+msgid "Reset"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:73
+msgid ""
+"Delete all product images with watermark (once completed, you have to "
+"deactivate the plugin and regenerate image thumbnails)."
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:95
+msgid "Show Log"
+msgstr ""
+
+#: ../templates/admin/watermark-select.php:96
+msgid "Hide Log"
+msgstr ""

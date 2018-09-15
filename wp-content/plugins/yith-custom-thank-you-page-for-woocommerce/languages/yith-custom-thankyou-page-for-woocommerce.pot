@@ -1,0 +1,252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: yith-custom-thankyou-page-for-woocommerce\n"
+"POT-Creation-Date: 2017-02-22 15:07-0000\n"
+"PO-Revision-Date: 2017-02-22 15:06-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class.yith-custom-thankyou-page-admin.php:93
+msgid "Custom ThankYou Page"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:96
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:101
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:174
+msgid "Plugin documentation"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:178
+msgid "Help Center"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:185
+msgid "Discover the premium version"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:190
+msgid "Free vs Premium"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:195
+msgid "Premium live demo"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:200
+msgid "WordPress support forum"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:205
+#: includes/class.yith-custom-thankyou-page-admin.php:217
+msgid "Changelog"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:205
+#: includes/class.yith-custom-thankyou-page-admin.php:217
+msgid "current version"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-admin.php:212
+msgid "Support platform"
+msgstr ""
+
+#: includes/class.yith-custom-thankyou-page-frontend.php:149
+#: templates/yith_ctpw_header.php:2
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: init.php:47
+msgid ""
+"YITH Custom Thank You page for Woocommerce is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: panel/settings-options.php:22
+msgid "General settings"
+msgstr ""
+
+#: panel/settings-options.php:28
+msgid "Enable Custom ThankYou Page"
+msgstr ""
+
+#: panel/settings-options.php:30
+msgid "Check this option to enable plugin features"
+msgstr ""
+
+#: panel/settings-options.php:37
+msgid "Select the General Page"
+msgstr ""
+
+#: panel/settings-options.php:43
+msgid "Select the General ThankYou Page for all products"
+msgstr ""
+
+#: panel/settings-options.php:48
+msgid "Custom CSS"
+msgstr ""
+
+#: premium/premium.php:228 premium/premium.php:323
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Custom Thank You Page for "
+"Woocommerce%2$s to benefit from all features!"
+msgstr ""
+
+#: premium/premium.php:231 premium/premium.php:326
+msgid "UPGRADE"
+msgstr ""
+
+#: premium/premium.php:232 premium/premium.php:327
+msgid "to the premium version"
+msgstr ""
+
+#: premium/premium.php:238
+msgid "Premium Features"
+msgstr ""
+
+#: premium/premium.php:246
+msgid "Custom Thank you page for Single Product..."
+msgstr ""
+
+#: premium/premium.php:249
+#, php-format
+msgid "Set a Custom Thank you page for the %1$sSingle Product%2$s..."
+msgstr ""
+
+#: premium/premium.php:259
+msgid "And for Product Category"
+msgstr ""
+
+#: premium/premium.php:262
+#, php-format
+msgid ""
+"You will able also to set a Custom Thank You page for %1$sProduct Categories"
+"%2$s"
+msgstr ""
+
+#: premium/premium.php:278
+msgid "Set Priority"
+msgstr ""
+
+#: premium/premium.php:281
+msgid ""
+"Select what page to show in case in the cart are added products or product "
+"categories with custom thank you pages."
+msgstr ""
+
+#: premium/premium.php:291
+msgid "Order Review"
+msgstr ""
+
+#: premium/premium.php:294
+msgid ""
+"You can choose to show all the woocommerce order review parts or only the "
+"ones you prefer."
+msgstr ""
+
+#: premium/premium.php:310
+msgid "Social Box"
+msgstr ""
+
+#: premium/premium.php:313
+msgid ""
+"If you set to show the Social Box, your Customers will able to share their "
+"purchase on the mayor socials."
+msgstr ""
+
+#: templates/yith_ctpw_customer_details.php:1
+msgid "Customer details"
+msgstr ""
+
+#: templates/yith_ctpw_customer_details.php:4
+msgid "Email:"
+msgstr ""
+
+#: templates/yith_ctpw_customer_details.php:5
+msgid "Telephone:"
+msgstr ""
+
+#: templates/yith_ctpw_customer_details.php:22
+msgid "Billing Address"
+msgstr ""
+
+#: templates/yith_ctpw_customer_details.php:26
+#: templates/yith_ctpw_customer_details.php:41
+msgid "N/A"
+msgstr ""
+
+#: templates/yith_ctpw_customer_details.php:37
+msgid "Shipping Address"
+msgstr ""
+
+#: templates/yith_ctpw_failed.php:2
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: templates/yith_ctpw_failed.php:6
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: templates/yith_ctpw_failed.php:8
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: templates/yith_ctpw_failed.php:12
+msgid "Pay"
+msgstr ""
+
+#: templates/yith_ctpw_failed.php:14
+msgid "My Account"
+msgstr ""
+
+#: templates/yith_ctpw_header.php:4
+msgid "Order:"
+msgstr ""
+
+#: templates/yith_ctpw_header.php:8
+msgid "Date:"
+msgstr ""
+
+#: templates/yith_ctpw_header.php:12
+msgid "Total:"
+msgstr ""
+
+#: templates/yith_ctpw_header.php:17
+msgid "Payment method:"
+msgstr ""
+
+#: templates/yith_ctpw_table.php:6
+msgid "Order Details"
+msgstr ""
+
+#: templates/yith_ctpw_table.php:10
+msgid "Product"
+msgstr ""
+
+#: templates/yith_ctpw_table.php:11
+msgid "Total"
+msgstr ""
+
+#: templates/yith_ctpw_table.php:45
+#, php-format
+msgid "Download file%s"
+msgstr ""

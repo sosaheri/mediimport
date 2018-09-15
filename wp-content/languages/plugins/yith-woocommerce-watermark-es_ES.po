@@ -1,0 +1,1223 @@
+# Translation of Plugins - YITH WooCommerce Watermark - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Watermark - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-15 13:18:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Watermark - Stable (latest release)\n"
+
+#: templates/admin/watermark-select.php:96
+msgid "Hide Log"
+msgstr "Ocultar inicio de sesión"
+
+#: templates/admin/watermark-select.php:95
+msgid "Show Log"
+msgstr "Mostrar inicio de sesión"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:560
+msgid "Image size doesn't exist"
+msgstr "El tamaño de la imagen no existe"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:559
+msgid "Error when creating watermark"
+msgstr "Error al crear la marca de agua"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:558
+msgid "Can't load the image editor"
+msgstr "No se pudo cargar el editor de imagen"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:557
+msgid "Error when saving resize image"
+msgstr "Error al guardar la redimension de la imagen"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:556
+msgid "Empty Path"
+msgstr "Ruta vacía"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:555
+msgid "Watermark Created"
+msgstr "Marca de agua creada"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:334
+msgid "Full Size"
+msgstr "Tamaño completo"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:333
+msgid "Shop Catalog"
+msgstr "Catálogo de la tienda"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:332
+msgid "Shop Thumbnail"
+msgstr "Miniatura de la tienda"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:323
+msgid "Attach id "
+msgstr "Adjuntar ID"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:331
+msgid "Shop Single"
+msgstr "Tienda individual"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+msgid "Club Subscription"
+msgstr "Suscripción al Club"
+
+#: plugin-fw/licence/lib/yit-licence.php:676
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "El producto actual no está incluido en tu clave de YITH Club Subcription"
+
+#: plugin-fw/lib/yit-plugin-panel.php:291
+#: plugin-fw/lib/yit-plugin-panel.php:294
+msgid "How to install premium version"
+msgstr "Cómo instalar la versión premium"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:1007
+msgid "Backup completed!"
+msgstr "¡Copia de seguridad completada!"
+
+#: templates/admin/custom-button.php:15
+msgid "Generate a complete backup"
+msgstr "Generar una copia de seguridad completa"
+
+#: templates/admin/custom-button.php:17
+msgid "Backup"
+msgstr "Copia de seguridad"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:994
+msgid "From version 1.0.7 all your product backed up images are available at"
+msgstr "Desde la versión 1.0.7 todas las imágenes de tus productos guardados en la copia de seguridad están disponibles en"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "Comprar de nuevo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "Renovar licencia"
+
+#: templates/admin/watermark-select.php:73
+msgid "Delete all product images with watermark (once completed, you have to deactivate the plugin and regenerate image thumbnails)."
+msgstr "Borrar todas las imágenes de producto con marca de agua (una vez completado, debes desactivar el plugin y regenerar las miniaturas de las imágenes)"
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr "http://yithemes.com/"
+
+#. Description of the plugin/theme
+msgid "YITH WooCommerce Watermark allows you to set a watermark in your product image."
+msgstr "YITH WooCommerce Watermark te permite añadir una marca de agua en tu imagen de producto."
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Watermark"
+msgstr "YITH WooCommerce Watermark"
+
+#. Plugin URI of the plugin/theme
+msgid "http://yithemes.com/themes/plugins/yith-woocommerce-watermark/"
+msgstr "http://yithemes.com/themes/plugins/yith-woocommerce-watermark/"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:1048
+#: templates/admin/apply-single-watermark.php:4
+#: templates/admin/watermark-select.php:56
+#: templates/admin/watermark-select.php:65
+msgid "Apply Watermark"
+msgstr "Aplicar Marca de agua"
+
+#: templates/admin/watermark-select.php:44
+msgid "Remove Watermark"
+msgstr "Quitar Marca de agua"
+
+#: templates/admin/watermark-select.php:58
+msgid "images at a time"
+msgstr "imágenes a la vez"
+
+#: templates/admin/watermark-select.php:58
+msgid "This procedure will apply the watermark to"
+msgstr "Este procedimiento aplicará la marca de agua a"
+
+#: templates/admin/watermark-select.php:66
+msgid "All \"Shop Single\" images of your products will be regenerated. (Save Changes before apply watermark)"
+msgstr "Todas las imágenes de tus productos de tu \"Tienda\" serán regeneradas (guarda los cambios antes de aplicar la marca de agua). "
+
+#: templates/admin/watermark-select.php:28
+msgid "Watermark Image"
+msgstr "Imagen de marca de agua"
+
+#: templates/admin/watermark-select.php:36
+msgid "Width:"
+msgstr "Ancho:"
+
+#: templates/admin/watermark-select.php:24
+msgid "Select Watermark"
+msgstr "Selecciona marca de agua"
+
+#: templates/admin/watermark-select.php:36
+msgid "Maximum size allowed:"
+msgstr "Máximo tamaño permitido:"
+
+#: templates/admin/watermark-select.php:36
+msgid "Height:"
+msgstr "Alto:"
+
+#: templates/admin/premium.php:324
+msgid "The watermark will no longer have only one position. %1$sYou will be free to choose where to place it%2$s, and thank to the available preview in the same page, you can choose the exact place without any problem."
+msgstr "La marca de agua ya no tendrá una sola posición. %1$sPodrás elegir dónde colocarla%2$s, y gracias a la vista previa disponible en la misma página, puedes elegir el lugar exacto sin problemas."
+
+#: templates/admin/premium.php:321
+msgid "Position"
+msgstr "Posición"
+
+#: templates/admin/premium.php:311
+msgid "If you have organized your products in categories, maybe you want to use the same logic to your watermarks, applying different watermarks following the categories of your products. %1$sIn few clicks you could achieve the result you want.%2$s"
+msgstr "Si has organizado tus productos en categorías, quizás quieras usar la misma lógica para tus marcas de agua, aplicando diferentes marcas de agua siguiendo las categorías de tus productos.%1$sEn pocos clicks podrás alcanzar el resultado que quieras.%2$s"
+
+#: templates/admin/premium.php:236
+msgid "Premium Features"
+msgstr "Características Premium"
+
+#: templates/admin/premium.php:289
+msgid "One for each image"
+msgstr "Una por cada imagen"
+
+#: templates/admin/premium.php:230 templates/admin/premium.php:340
+msgid "to the premium version"
+msgstr "a la versión premium"
+
+#: templates/admin/premium.php:229 templates/admin/premium.php:339
+msgid "UPGRADE"
+msgstr "MEJORA"
+
+#: templates/admin/premium.php:226 templates/admin/premium.php:336
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Watermark%2$s to benefit from all features!"
+msgstr "¡Mejora a la %1$sversión premium%2$s de %1$sYITH WooCommerce Watermark%2$s para beneficiarte de todas las características!"
+
+#: templates/admin/premium.php:244
+msgid "Watermark from image"
+msgstr "Marca de agua desde imagen"
+
+#: templates/admin/premium.php:260
+msgid "Not just images, %1$swatermark are taken also from text!%2$s Choose the words you want, the style and size. Six smart fonts, tailored for any kind of purpose.  Create the watermark that most suits your needs, and it will be harder to see your images used by anyone on the web!"
+msgstr "¡No sólo desde imágenes, %1$slas marcas de agua también se realizan a partir de texto!%2$s Elige las palabras que quieras, el estilo y el tamaño. Seis elegantes fuentes, diseñadas para cualquier tipo de propósito. ¡Crea la marca de agua que más se ajuste a tus necesidades y será más difícil ver a otros usando tus imágenes en la web!"
+
+#: templates/admin/premium.php:257
+msgid "Watermark from text"
+msgstr "Marca de agua a partir de texto"
+
+#: templates/admin/premium.php:247
+msgid "Watermarks got from images are the %1$sbest solutions%2$s for whoever is able to create images compatible with products' ones, in order to protect them from unwanted usage or unauthorized modification."
+msgstr "Las marcas de agua a partir de imágenes son la %1$smejor solución%2$s para quienes puedan crear imágenes compatibles con las de productos, para protegerlas del uso indeseado o de la modificación no autorizada."
+
+#: templates/admin/premium.php:276
+msgid "Multiple watermark"
+msgstr "Marca de agua múltiple"
+
+#: templates/admin/premium.php:279
+msgid "The creation of more watermarks is too interesting to ignore it! With the premium version of the plugin, you won't be obliged to apply just one watermark to your products: %1$sno limits in creation%2$s, and the freedom to make one or more for any product."
+msgstr "¡La creación de más marcas de agua es demasiado interesante como para ignorarla! Con la versión premium no tendrás la obligación de aplicar sólo una marca de agua a tus productos: %1$sno hay límites de creación%2$s, y tienes la libertad de hacer una o más para cada producto."
+
+#: templates/admin/premium.php:292
+msgid "Take advantage of the power of the plugin, adding %1$sdifferent watermarks%2$s depending on the final image on which they will be applied. A single image could not suit to all formats, but this won't be a problem any longer!"
+msgstr "Benefíciate del poder del plugin, añadiendo %1$sdiferentes marcas de agua%2$s dependendo de la imagen final en la que se apliquen. Una sola imagen podría no encajar con todos los formatos, ¡pero eso ya no será un problema!"
+
+#: templates/admin/premium.php:308
+msgid "Product categories"
+msgstr "Categorías de producto"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+msgid "Reset Defaults"
+msgstr "Ajustes predeterminados"
+
+#: plugin-options/general-settings-options.php:11
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:100
+msgid "Italic bold"
+msgstr "Cursiva negrita"
+
+#: plugin-fw/templates/panel/types/upload.php:32
+#: templates/admin/watermark-select.php:70
+#: templates/admin/watermark-select.php:72
+msgid "Reset"
+msgstr "Reinicia"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:98
+msgid "Extra bold"
+msgstr "Extra negrita"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:99
+msgid "Italic"
+msgstr "Cursiva"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:43
+msgid "em"
+msgstr "em"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:59
+#: plugin-fw/templates/metaboxes/types/typography.php:153
+#: plugin-fw/templates/metaboxes/types/typography.php:217
+msgid "Web fonts"
+msgstr "Fuentes web"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:42
+msgid "px"
+msgstr "px"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:44
+msgid "pt"
+msgstr "pt"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:45
+msgid "rem"
+msgstr "rem"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:71
+msgid "Google fonts"
+msgstr "Fuentes Google"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:96
+msgid "Regular"
+msgstr "Normal"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:97
+msgid "Bold"
+msgstr "Negrita"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:62
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:34
+#: plugin-fw/templates/metaboxes/types/sidebars.php:53
+#: plugin-fw/templates/metaboxes/types/sidebars.php:64
+msgid "Choose a sidebar"
+msgstr "Elige una barra lateral"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:51
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:31
+#: plugin-fw/templates/metaboxes/types/sidebars.php:39
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:28
+#: plugin-fw/templates/metaboxes/types/sidebars.php:42
+#: plugin-fw/templates/metaboxes/types/sidebars.php:45
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:25
+#: plugin-fw/templates/metaboxes/types/sidebars.php:36
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/metaboxes/types/images.php:42
+msgid "Upload new images"
+msgstr "Cargar nuevas imágenes"
+
+#: plugin-fw/templates/metaboxes/types/images.php:75
+msgid "Are you sure you want to remove this image?"
+msgstr "¿Estás seguro/a de que quieres borrar esta imagen?"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add images"
+msgstr "Añadir imágenes"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Delete"
+msgstr "Borrar"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:107
+msgid "Do you want to remove the custom tab?"
+msgstr "¿Quieres borrar la etiqueta personalizada?"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:89
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Por defecto: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:91
+msgid "(Default: <i %s></i> )"
+msgstr "(Por defecto: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:40
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#: plugin-fw/templates/metaboxes/types/images.php:38
+#: plugin-fw/templates/metaboxes/types/images.php:64
+msgid "Delete image"
+msgstr "Borrar imagen"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add Images to Gallery"
+msgstr "Añadir imágenes a la Galería"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add to gallery"
+msgstr "Añadir a la galería"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:52
+#: plugin-fw/templates/metaboxes/types/customtabs.php:95
+msgid "Value"
+msgstr "Valor"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:53
+#: plugin-fw/templates/metaboxes/types/customtabs.php:96
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenido de la pestaña. (HTML se soporta)"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Añadir etiqueta de producto personalizado"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:247
+#: plugin-fw/templates/metaboxes/types/contactform.php:421
+msgid "Set field length."
+msgstr "Establecer el ancho de campo"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Close all"
+msgstr "Cerrar todos"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Expand all"
+msgstr "Expandir todos"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:209
+#: plugin-fw/templates/metaboxes/types/contactform.php:397
+#: plugin-fw/templates/metaboxes/types/icon-list.php:75
+#: plugin-fw/templates/metaboxes/types/select-icon.php:39
+msgid "Image preview"
+msgstr "Previsualización de imagen"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:217
+#: plugin-fw/templates/metaboxes/types/contactform.php:405
+msgid "Insert an icon for more personalization."
+msgstr "Inserta un icono para más personalización"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:222
+#: plugin-fw/templates/metaboxes/types/contactform.php:409
+msgid "Width"
+msgstr "Ancho"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:170
+#: plugin-fw/templates/metaboxes/types/contactform.php:362
+msgid "Insert additional class(es) (separated by commas) for more personalization."
+msgstr "Inserta clase(s) adicionales (separados por comas) para más personalización."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:175
+#: plugin-fw/templates/metaboxes/types/contactform.php:367
+msgid "Icon"
+msgstr "Icono"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:203
+#: plugin-fw/templates/metaboxes/types/contactform.php:391
+#: plugin-fw/templates/metaboxes/types/icon-list.php:69
+#: plugin-fw/templates/metaboxes/types/select-icon.php:33
+#: plugin-fw/templates/metaboxes/types/upload.php:21
+#: plugin-fw/templates/panel/types/upload.php:31
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Actualiza"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:157
+#: plugin-fw/templates/metaboxes/types/contactform.php:349
+msgid "Reply To"
+msgstr "Responder a"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:166
+#: plugin-fw/templates/metaboxes/types/contactform.php:358
+msgid "Class"
+msgstr "Clase"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:143
+#: plugin-fw/templates/metaboxes/types/contactform.php:335
+msgid "Select this option if it must be required."
+msgstr "Selecciona esta opción si este campo debe ser obligatorio."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:152
+#: plugin-fw/templates/metaboxes/types/contactform.php:344
+msgid "Select this option if the email must be valid."
+msgstr "Selecciona esta opción si el email debe ser válido."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:161
+#: plugin-fw/templates/metaboxes/types/contactform.php:353
+msgid "Select this if it is the email you can reply to."
+msgstr "Selecciona si este es el email al que puedes responder."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:112
+#: plugin-fw/templates/metaboxes/types/contactform.php:304
+msgid "Select this option if you want this field appears as already checked."
+msgstr "Selecciona esta opción si quieres que este campo aparezca como ya marcado."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:117
+#: plugin-fw/templates/metaboxes/types/contactform.php:309
+msgid "Add options "
+msgstr "Añadir opciones"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:118
+#: plugin-fw/templates/metaboxes/types/contactform.php:310
+msgid "Add option"
+msgstr "Añadir opción"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:121
+#: plugin-fw/templates/metaboxes/types/contactform.php:313
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Selected"
+msgstr "Selecionado"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:124
+#: plugin-fw/templates/metaboxes/types/contactform.php:316
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Delete option"
+msgstr "Borrar opción"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:130
+#: plugin-fw/templates/metaboxes/types/contactform.php:322
+msgid "Error Message"
+msgstr "Mensaje de error"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:134
+#: plugin-fw/templates/metaboxes/types/contactform.php:326
+msgid "Insert the error message for validation."
+msgstr "Inserta el mensaje de error para la validación."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:139
+#: plugin-fw/templates/metaboxes/types/contactform.php:331
+msgid "Required"
+msgstr "Campo obligatorio"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:77
+#: plugin-fw/templates/metaboxes/types/contactform.php:269
+msgid "Field Title"
+msgstr "Campo de título"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:81
+#: plugin-fw/templates/metaboxes/types/contactform.php:273
+msgid "Insert the title for the field."
+msgstr "Inserta el título del campo."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:86
+#: plugin-fw/templates/metaboxes/types/contactform.php:278
+msgid "Data Name"
+msgstr "Nombre del dato."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:90
+#: plugin-fw/templates/metaboxes/types/contactform.php:282
+msgid "REQUIRED: Field identification name to be entered into email body. <strong>Note:</strong>Use only lowercase characters and underscores."
+msgstr "OBLIGATORIO: El nombre del campo de identificación debe introducirse en el cuerpo del email. <strong> Nota: </strong> Usa sólo minúsculas y guiones bajos."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:95
+#: plugin-fw/templates/metaboxes/types/contactform.php:287
+msgid "Field Type"
+msgstr "Tipo de campo"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:103
+#: plugin-fw/templates/metaboxes/types/contactform.php:295
+msgid "Select the type for this field."
+msgstr "Selecciona el tipo para este campo."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:108
+#: plugin-fw/templates/metaboxes/types/contactform.php:300
+msgid "Checked"
+msgstr "Campo seleccionado"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:70
+#: plugin-fw/templates/metaboxes/types/contactform.php:262
+msgid "Click to toggle"
+msgstr "Haz click para alternar"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:60
+msgid "Add field"
+msgstr "Añadir campo"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:69
+#: plugin-fw/templates/metaboxes/types/contactform.php:261
+#: plugin-fw/templates/metaboxes/types/customtabs.php:37
+#: plugin-fw/templates/metaboxes/types/customtabs.php:82
+msgid "Remove"
+msgstr "Borrar"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:49
+#: plugin-fw/templates/metaboxes/types/responsivesliders.php:24
+msgid "None"
+msgstr "Ninguno"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:10
+msgid "Textarea"
+msgstr "Área de texto"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:11
+msgid "Radio Input"
+msgstr "Radio Input"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:12
+msgid "Password Field"
+msgstr "Campo de contraseña"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:13
+msgid "File Upload"
+msgstr "Carga de archivo"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:47
+msgid "Theme Icon"
+msgstr "Icono del tema"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:48
+msgid "Custom Icon"
+msgstr "Icono Personalizado"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:9
+msgid "Select"
+msgstr "Seleciona"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:7
+msgid "Text Input"
+msgstr "Text Input"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:8
+msgid "Checkbox"
+msgstr "Casilla"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:46
+msgid "Add"
+msgstr "Añadir"
+
+#: plugin-fw/templates/metaboxes/types/ajax-products.php:23
+msgid "Search for a product"
+msgstr "Buscar un producto"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:36
+msgid "No categories."
+msgstr "Ninguna categoría."
+
+#: plugin-fw/templates/metaboxes/types/categories.php:42
+msgid "+ Add New Category"
+msgstr "+ Añadir Nueva Categoría"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "Renovado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "Caducado"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "Prohibido"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "Acciones de Licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "%1s de %2s"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+msgid "Product Name"
+msgstr "Nombre de Producto"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "Caduca"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "Queda"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "Activado/a"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "No puedo encontrar la clave de licencia para activar el tema que compré hace tiempo. ¿Dónde la puedo encontrar?"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Licencia de Activación Yithemes"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "¿Has actualizado tus licencias? ¿Has pedido una extensión? Actualiza"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "Actualizar la información de la licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "Producto que activar"
+msgstr[1] "Productos que activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "Activar"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"Si has comprado uno de nuestros productos antes del 27 de enero de 2015, puedes beneficiarte del soporte y actualizaciones (los servicios incluidos con la licencia)\n"
+"                    hasta el 27 de enero de 2016 y no tendrás que comprarla otra vez para conseguir una nueva clave de licencia, porque, antes de esta fecha, tu licencia se activaba automáticamente por nuestro sistema.\n"
+"                    Después del 27 de enero de 2016, sin embargo, si quieres beneficiarte de nuestro soporte y actualizaciones, tienes que comprar una nueva licencia y activarla a través de la clave de licencia que \n"
+"                    se te proporcionará y que podrás encontrar en tu cuenta YIThemes, en la sección \"My licenses\"."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "Clave de Licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "¿Estás seguro/a de que quieres desactivar la licencia para el sitio web actual?"
+
+#: plugin-fw/licence/lib/yit-licence.php:668
+msgid "Invalid Request"
+msgstr "Solicitud inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:669
+msgid "Invalid license key"
+msgstr "Clave de solicitud inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:670
+msgid "Software has been deactivated"
+msgstr "El software ha sido desactivado"
+
+#: plugin-fw/licence/lib/yit-licence.php:671
+msgid "Maximum number of activations exceeded"
+msgstr "Se ha excedido el número máximo de solicitudes"
+
+#: plugin-fw/licence/lib/yit-licence.php:672
+msgid "Invalid instance ID"
+msgstr "Instancia ID inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:673
+msgid "Invalid security key"
+msgstr "Clave de seguridad inválida"
+
+#: plugin-fw/licence/lib/yit-licence.php:674
+msgid "License key has expired"
+msgstr "La clave de licencia ha caducado"
+
+#: plugin-fw/licence/lib/yit-licence.php:675
+msgid "License key has been banned"
+msgstr "La clave de licencia ha sido bloqueada"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "Great"
+msgstr "Excelente"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "License successfully activated"
+msgstr "Licencia activada con éxito"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "License key deactivated for website"
+msgstr "Clave de licencia desactivada para nuestro sitio web"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "Activación de la Licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:186
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+#: plugin-fw/templates/metaboxes/types/contactform.php:148
+#: plugin-fw/templates/metaboxes/types/contactform.php:340
+msgid "Email"
+msgstr "Email"
+
+#: plugin-fw/licence/lib/yit-licence.php:184
+msgid "%s and %s fields cannot be empty"
+msgstr "Los campos %s y %s no pueden estar vacíos"
+
+#: plugin-fw/licence/lib/yit-licence.php:185
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "No fue posible contactar con el servidor remoto, por favor, inténtalo de nuevo más tarde. ¡Gracias!"
+
+#: plugin-fw/lib/yit-upgrade.php:287
+msgid "Could not create Temporary file."
+msgstr "No se pudo crear un archivo temporal."
+
+#: plugin-fw/lib/yit-upgrade.php:526
+msgid "You can't update the plugins for this site."
+msgstr "No puedes actualizar los plugins para este sitio web."
+
+#: plugin-fw/lib/yit-upgrade.php:530
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "No tienes suficientes permisos para actualizar los plugins para este sitio web."
+
+#: plugin-fw/lib/yit-upgrade.php:537
+msgid "Update Plugin"
+msgstr "Actualizar Plugin"
+
+#: plugin-fw/licence/lib/yit-licence.php:183
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "%s el campo no puede estar vacío"
+
+#: plugin-fw/lib/yit-upgrade.php:448
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "Hay una versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a>. <em>Tienes que activar en un sitio individual de la red para beneficiarte de actualizaciones automáticas.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:450
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a>. <em>La actualización automática no está disponible para este plugin, por favor <a href=\"%5$s\" title=\"License activation\">activa</a> tu copia de %6s.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:452
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a> o <a href=\"%5$s\">actualiza ahora</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:446
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a>."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Plugins Actualizados"
+
+#: plugin-fw/lib/yit-upgrade.php:135
+msgid "There is a new version of %plugin_name% available."
+msgstr "Hay una nueva versión de %plugin_name% disponible."
+
+#: plugin-fw/lib/yit-upgrade.php:136
+msgid "View version %latest% details."
+msgstr "Ver detalles de la %latest% versión"
+
+#: plugin-fw/lib/yit-upgrade.php:137
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "Las actualizaciones automáticas no están disponibles para este plugin,"
+
+#: plugin-fw/lib/yit-upgrade.php:138
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "por favor, <a href=\"%activate_link%\">activa</a> tu copia de %plugin_name%."
+
+#: plugin-fw/lib/yit-upgrade.php:139
+msgid "Update now."
+msgstr "Actualiza ahora."
+
+#: plugin-fw/lib/yit-upgrade.php:240
+msgid "YIThemes Repository"
+msgstr "Repositorio YIThemes"
+
+#: plugin-fw/lib/yit-upgrade.php:274
+msgid "Invalid URL Provided."
+msgstr "La URL proporcionada no es válida."
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"De ahora en adelante, puedes encontrar todas las opciones de tus plugins en el menú YITH Plugin.\n"
+"                                    Cada vez que uno de nuestros plugins es añadido, se agregará una nueva entrada a este menú.\n"
+"                                    Por ejemplo, después de actualizar las opciones del plugin (como las de YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    se moverán de su posición anterior a la pestaña YIT Plugin."
+
+#: plugin-fw/lib/yit-plugin-panel.php:348
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si sigues con esta acción, se reiniciarán todas las opciones en esta página."
+
+#: plugin-fw/lib/yit-plugin-panel.php:350
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+msgid "Reset to default"
+msgstr "Reiniciar a predeterminado"
+
+#: plugin-fw/lib/yit-plugin-panel.php:350
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Are you sure?"
+msgstr "¿Estás seguro/a?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:487
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "El elemento que has introducido ya existe. Por favor, introduce otro nombre."
+
+#: plugin-fw/lib/yit-plugin-panel.php:488
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:489
+msgid "Settings reset"
+msgstr "Ajustes reiniciados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:490
+msgid "Element deleted correctly."
+msgstr "Elemento borrado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:491
+#: plugin-fw/lib/yit-plugin-panel.php:492
+msgid "Element updated correctly."
+msgstr "Elemento actualizado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:493
+msgid "Database imported correctly."
+msgstr "Base de datos importada correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:494
+msgid "An error has occurred during import. Please try again."
+msgstr "Ha ocurrido un error durante la importación. Por favor, inténtalo de nuevo."
+
+#: plugin-fw/lib/yit-plugin-panel.php:495
+msgid "The added file is not valid."
+msgstr "El archivo añadido no es válido."
+
+#: plugin-fw/lib/yit-plugin-panel.php:496
+msgid "Sorry, import is disabled."
+msgstr "Lo sentimos, la importación está deshabilitada."
+
+#: plugin-fw/lib/yit-plugin-panel.php:497
+msgid "Sorting successful."
+msgstr "Clasificación fue realizada con éxito."
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:149
+msgid "If you continue with this action, you will reset all the options in this page."
+msgstr "Si continúas con esta acción, reiniciarás todas las opciones de esta página."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Plugins Activados"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Descubre todos nuestros plugins disponibles en:"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "y"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"De ahora en adelante, puedes encontrar todas las opciones del plugin en el menú YITH Plugin.\n"
+"                                   Los ajustes de personalización del plugin estarán disponibles como una nueva entrada en el menú YITH Plugin."
+
+#: plugin-fw/lib/yit-plugin-panel.php:345
+#: plugin-fw/lib/yit-plugin-subpanel.php:146
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:11
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "Añadir %s desde imágenes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "Cargar archivos múltiples"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:372
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Los cambios que has hecho se perderán si sales de esta página."
+
+#: plugin-fw/lib/yit-plugin-panel.php:68
+msgid "Plugin Settings"
+msgstr "Ajustes del plugin"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Taxonomía de reescritura"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Establecer nombre único para cada página URL de categoría."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Diseño Simple"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "Diseño para cada página de este portafolio"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "Ajustes de diseño"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Mostrar parte delantera de %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/metaboxes/types/customtabs.php:46
+#: plugin-fw/templates/metaboxes/types/customtabs.php:90
+msgid "Name"
+msgstr "Nombre"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Reescribir"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Diseño para este %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Nombre de identificación único en la URL para cada producto (slug desde la entrada si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "Etiqueta en singular"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Establecer una etiqueta en singular (título del portafolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "Etiqueta en Plural"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Establecer una etiqueta en plural (título del portafolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Si quieres usar categorías en el portafolio, establece un nombre para la taxonomía. El nombre debería ser un slug (no debe contener mayúsculas ni espacios) y no debe ser más largo de 32 caracteres (restricción de estructura de base de datos)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s Ajustes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Tipos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "Nuevo nombre de categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Actualizar Categoría:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Editar Categoría:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Categoría Madre:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Categoría Madre"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+msgid "Search Categories"
+msgstr "Buscar Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "No se encontraron %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "No se encontraron %s en la Papelera"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "Categorías %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "Ver %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "Todo %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "Nuevo/a %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Añadir nuevo/a %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:316
+msgid "Completed"
+msgstr "Completado"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "Añadir %s"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:315
+msgid "Products"
+msgstr "Productos"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:317
+msgid "You can't use images bigger than"
+msgstr "No puedes usar imágenes mayores que"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:320
+msgid "of the size of the \"Single Product image\", that is"
+msgstr "del tamaño de \"Imagen de Producto Único\", que es"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:324
+msgid "Images will be restored, are you sure? "
+msgstr "Las imágenes serán restauradas, ¿estás seguro?"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:325
+msgid "Image has been deleted"
+msgstr "La imagen ha sido eliminada"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:326
+msgid "Images have been deleted"
+msgstr "Las imágenes han sido eliminadas"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:327
+msgid "Image has not been deleted"
+msgstr "La imagen no ha sido eliminada"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:328
+msgid "Images have not been deleted"
+msgstr "Las imágenes no han sido eliminadas"
+
+#: init.php:46
+msgid "YITH WooCommerce Watermark is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Watermark está activado pero no es efectivo. Requiere WooCommerce para funcionar."
+
+#: init.php:55
+msgid "You can't activate the free version of YITH WooCommerce Watermark while you are using the premium one."
+msgstr "No puedes actuvar la versión free de YITH WooCommerce Watermark mientras estás usando la premium."
+
+#: includes/classes/class.yith-woocommerce-watermark.php:314
+msgid "on"
+msgstr "de"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:253
+#: includes/classes/class.yith-woocommerce-watermark.php:254
+msgid "Watermark"
+msgstr "Watermark"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:163
+msgid "Premium live demo"
+msgstr "Live demo premium"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:163
+msgid "Live demo"
+msgstr "Live demo"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:168
+#: includes/classes/class.yith-woocommerce-watermark.php:247
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:195
+msgid "Plugin Documentation"
+msgstr "Documentación del plugin"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:312
+msgid "The watermark has been applied to"
+msgstr "La marca de agua ha sido aplicada a"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:313
+msgid "Product"
+msgstr "Producto"
+
+#: includes/classes/class.yith-woocommerce-watermark.php:161
+#: includes/classes/class.yith-woocommerce-watermark.php:246
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:69
+msgid "Settings"
+msgstr "Ajustes"
